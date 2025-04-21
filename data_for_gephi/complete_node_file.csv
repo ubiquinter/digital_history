@@ -1,0 +1,668 @@
+id,name,gender,birth_date,attribute,at_cortona
+1,Pier Luigi Luisi,m,1938,person,yes
+2,Jörg Altherr-Flury,m,1944,person,yes
+3,Thea Altherr-Flury,w,1941,person,yes
+4,Shams Anwari-Alhossenyni,m,1937,person,yes
+5,Iso Camartin,m,1944,person,yes
+6,Fritjof Capra,m,1939,person,yes
+7,Thornton E. Chamberlin,m,1949,person,yes
+8,Richard Robert Ernst,m,1933,person,yes
+9,Jörg Felsche,,,person,yes
+10,Gerd Folkers,,,person,yes
+11,Pieter Arend Folken,,,person,yes
+12,Gerd Fuchs,,,person,yes
+13,Kathrin Graf,w,1942,person,yes
+14,George Greenstein,,,person,yes
+15,Ricardo Guerrero,,,person,yes
+16,Willi Gutmann,m,1927,person,yes
+17,Urs Hartmann,,,person,yes
+18,Doris Lässer-Aeppli,w,1945,person,yes
+19,Claudia Scheidegger,w,1950,person,yes
+20,Tony Madjalani,,,person,yes
+21,Lynn Margulis,w,1938,person,yes
+22,Monika Matta,w,,person,yes
+23,Regina Mikula,,,person,yes
+24,Suzanne Monard,w,1934,person,yes
+25,Roberto A. A. Boschi,m,1941,person,yes
+26,Doris Oltrogge,,,person,yes
+27,Jörg Rasche,m,1950,person,yes
+28,Irene Reintjens,,,person,yes
+29,Hortense Reintjens-Anwari,,,person,yes
+30,Ingrid Riedel,,,person,yes
+31,Paul Seiler,,,person,yes
+32,Renuka Singh,,,person,yes
+33,David Bohm,m,1917,person,yes
+34,David Steindl-Rast,m,1926,person,yes
+35,Michael Stillwater,,,person,yes
+36,KatjaTchemberdji,,,person,yes
+37,Weiming Tu,,,person,yes
+38,Katharina von Salis,,,person,yes
+39,Cornelia Walterspiel,w,,person,yes
+40,f,,,person,yes
+41,Reinhard Nesper,,,person,yes
+42,Marlen Karlen,,,person,yes
+43,Luciano Pietronero,,,person,yes
+44,Rupert Sheldrake,,,person,yes
+45,Ernst Peter Fischer,,,person,yes
+46,Christina Puchalski,,,person,yes
+47,Joan Halifax,,,person,yes
+48,Michael Hagner,,,person,yes
+49,Hans-Peter Sibler,,,person,yes
+50,John Wolf Brennan,m,1954,person,yes
+51,Vanja Palmers,m,1948,person,yes
+52,Barbara Jäckli,,,person,yes
+53,Andreas Schneider,,,person,yes
+54,Regula Vollenweider Wepfer,,,person,yes
+55,Avshalom Elitzur,,,person,yes
+56,Beate Kortendieck-Rasche,,,person,yes
+57,Marie Millis,,,person,yes
+58,HeidiMaria Stauber,,,person,yes
+59,Eveline Hauser,,,person,yes
+60,Horta van Hoye,,,person,yes
+61,Chaturvedi Badrinath,m,1933,person,yes
+62,Helmut Milz,,,person,yes
+63,Monica Zuretti,,,person,yes
+64,Fredi Rauner,,,person,yes
+65,Franziska Dürr,,,person,yes
+66,Kurt Reinhard,,,person,yes
+67,Michel Bitbol,,,person,yes
+68,Annie Bitbol-Hespériès,,,person,yes
+69,Richi Diener,,,person,yes
+70,Daniel Fueter,,,person,yes
+71,Thomas Müllenbach,,,person,yes
+72,Herbert Pietschmann,m,1936,person,yes
+73,Naomi Steinberg,,,person,yes
+74,Hazel Henderson,w,1933,person,yes
+75,Tom Johanson,m,1925,person,yes
+76,Alexander Lowen,m,1910,person,yes
+77,Giancarlo Testa,m,1932,person,yes
+78,Francisco Varela,m,1946,person,yes
+79,Morris Berman,m,1944,person,yes
+80,Kurt Dressler,m,1929,person,yes
+81,Cornelia Hesse-Honegger,w,1944,person,yes
+82,Albert Hofmann,m,1906,person,yes
+83,Roberto Laneri,m,1945,person,yes
+84,Ulrich Müller-Herold,m,1943,person,yes
+85,Gerhard Resch,m,1937,person,yes
+86,Isabella Stieger,w,,person,yes
+87,William Irwin Thompson,m,1938,person,yes
+88,Corina Curschellas,w,1956,person,yes
+89,Loreli Fischer-Knuth,w,1938,person,yes
+90,Pit Gutmann,m,1954,person,yes
+91,Marie-Luce Gonseth,w,,person,yes
+92,Jörg Müller,m,,person,yes
+93,Eduard Freitag,,,person,yes
+94,Roland Ris,m,1939,person,yes
+95,Christian Thomas,m,1948,person,yes
+96,Hans Primas,m,1928,person,yes
+97,Walter Schneider,,,person,yes
+98,Mary Catherine Bateson,w,1939,person,yes
+99,Georges Enderle,m,1943,person,yes
+100,Renate Schlüssel,w,,person,yes
+101,Thomas Matus,m,1940,person,yes
+102,Leonor Varela,w,1947,person,yes
+103,Hans Weber,m,1937,person,yes
+104,D. Fölsch,,,person,yes
+105,Otto Schärli,m,1930,person,yes
+106,Martin Henglein,m,1953,person,yes
+107,Ursula Zwahlen,w,,person,yes
+108,Marianne Parmiggiani,w,,person,yes
+109,August E. Hohler,m,1925,person,yes
+110,Lizelle Reymond,w,1899,person,yes
+111,Elisabeth Blum,w,1952,person,yes
+112,Bernhard Strecker,m,1940,person,yes
+113,Ernest Rosenberg,,,person,yes
+114,Peter Bumbacher,,,person,yes
+115,Peter Binz,,,person,yes
+116,C. Eugster,,,person,yes
+117,R. Frei,,,person,yes
+118,Eva Wertenschlag,w,1950,person,yes
+119,Guy Poupart,m,,person,yes
+120,G. Goerges,,,person,yes
+121,Gina Schibler,w,1956,person,yes
+122,Jan Olof Stenflo,m,1942,person,yes
+123,Branco Weiss,,,person,yes
+124,W. Mahler,,,person,yes
+125,Alfons Schilling,,,person,yes
+126,Tonino Zellweger,m,1942,person,yes
+127,Bruno Spoerri,m,1935,person,yes
+128,Nold Egenter,m,1938,person,yes
+129,Mariann M. Hamel,w,1937,person,yes
+130,Geshe Geduen Sangpo,m,1917,person,yes
+131,Ursula Rathgeb,w,,person,no
+132,Agatha Wydler,w,1945,person,yes
+133,Samy Frenk,m,1934,person,yes
+134,Noemi Frenk,w,,person,yes
+135,Shneior Lifson,m,1914,person,yes
+136,Lekshe Gyatso,,,person,yes
+137,Riccardo Pierantoni,,,person,yes
+138,Hsiao,,,person,yes
+139,Karl Bättig,m,1926,person,yes
+140,Peter Sitte,m,1929,person,yes
+141,Peter Schudel,m,1928,person,yes
+142,Paul Watzlawick,m,1921,person,yes
+143,Heinz Herzka,m,1935,person,yes
+144,Al Huang,,,person,yes
+145,Antonio Greco,,,person,no
+146,Jim Nollman,m,1947,person,yes
+147,Humberto Maturana,m,1928,person,yes
+148,Hanna Lifson,,,person,yes
+149,Yohikazu Ikeda,m,,person,yes
+150,Paul W. Müller,m,1929,person,yes
+151,Michael J. Denton,m,1943,person,yes
+152,Elisabeth Stern,,,person,yes
+153,Theo Ginsburg,m,1926,person,yes
+154,Diana Hornung,,,person,yes
+155,Sonja Buholzer,w,1960,person,yes
+156,Martin C. E. Huber,m,1936,person,yes
+157,Hans Christoph Binswanger,m,1929,person,yes
+158,Peter Walde,,,person,yes
+159,Cecily Corti,w,1940,person,yes
+160,Andalo Carrega,,,person,yes
+161,Katya Walter,w,1941,person,yes
+162,Helga Boedecker,w,,person,yes
+163,Michel Joly,m,,person,yes
+164,Gerda Verden-Zoeller,w,,person,yes
+165,Christiane Thurn,w,1943,person,yes
+166,Philip Howard,m,1933,person,yes
+167,Joan Davis,w,1937,person,yes
+168,Walter Petter,,,person,yes
+169,Marianne Heide,,,person,yes
+170,Beatrice Lüthi,,,person,yes
+171,Masaki Nakajima,m,,person,yes
+172,Anthony Adams,,,person,yes
+173,Pascale Bachmann,,,person,yes
+174,Esther Schreier,,,person,yes
+175,Karl-Henrik Robert,m,1947,person,yes
+176,Theodor Abt,m,1947,person,yes
+177,Paul Carter,m,,person,yes
+178,Richard Baker-roshi,m,1936,person,yes
+179,Beatrix Tappeser,w,1954,person,yes
+180,Christina Thürmer-Rohr,w,1936,person,yes
+181,Hans-Peter Dürr,m,1929,person,yes
+182,Clifford Saron,m,,person,yes
+183,Pino G. Bartalotta ,m,,person,yes
+184,Dieter Steiner,m,1932,person,yes
+185,Shizuko Ouwehand,w,1938,person,yes
+186,Patrizia Tosi,w,1964,person,yes
+187,Valerio De Rubeis,m,1963,person,yes
+188,Georg Thurn,m,1942,person,yes
+189,Roland Förster,m,1953,person,yes
+190,Martina Burchska,w,,person,yes
+191,Christian Walsoe,m,1951,person,yes
+192,Hans Peter Bernhard,m,1941,person,yes
+193,Hanna Johansen,w,1939,person,yes
+194,José Vazquez,m,1955,person,yes
+195,Norwood Russell Hanson,m,1924,person,no
+196,Mary Brenda Hesse,w,1924,person,no
+197,Donald Factor,m,1934,person,no
+198,Jiddu Krishnamurti,m,1895,person,no
+199,Francis David Peat,m,1938,person,no
+200,Paavo Pylkkänen,m,1959,person,no
+201,Mark Edwards,m,,person,no
+202,Basil J. Hiley,m,1935,person,no
+203,Ernst Friedrich Schumacher,m,1911,person,no
+204,Gregory Bateson,m,,person,no
+205,Heinz von Foerster,m,1911,person,no
+206,Ramon Margalef,,,person,no
+207,Gordon Pask,,,person,no
+208,Alan Kay,,,person,no
+209,Terry Winograd,,,person,no
+210,Steve Baer,,,person,no
+211,Stewart Brand,,,person,no
+212,Robert Edgar,,,person,no
+213,Carol Proudfoot,,,person,no
+214,Wolfang Dahlberg,m,1955,person,no
+215,Michael von Brück,m,1949,person,no
+216,Eileen Caddy,w,1917,person,no
+217,Brita Dahlberg,w,,person,no
+218,Hans Endres,m,1911,person,no
+219,Karl-Heinz Gottmann,,,person,no
+220,Peter Michael Hamel,,,person,no
+221,Inge Hölscher,,,person,no
+222,Pir Vilayat Inayat Khan,,,person,no
+223,Hazrath Inayat Khan,,,person,no
+224,Friedrich Kroeger,,,person,no
+225,Rabbi Zalman Schachter,,,person,no
+226,Siegfried Scharf,,,person,no
+227,Susanne Schaup,,,person,no
+228,Huston Smith,,,person,no
+229,Sun Bear,,,person,no
+230,Hans Torwesten,,,person,no
+231,Irina Tweedie,,,person,no
+232,Dalai Lama,,,person,no
+233,Joachim E. Berendt,,,person,no
+234,Gopi Krishna,,,person,no
+235,Robert Baker Aitken,,,person,no
+236,James Lovelock,,,person,no
+237,Henri Atlan,,,person,no
+238,John Todd,,,person,no
+239,Evan Thompson,,,person,no
+240,Arthur Zajonc,,,person,no
+241,Wes Jackson,,,person,no
+242,Nancy Jack Todd,,,person,no
+243,Susan Oyama,,,person,no
+244,Mauro Ceruti,,,person,no
+245,Gianluca Bocchi,,,person,no
+246,Newcomb Greenleaf,,,person,no
+247,Jeremy W. Hayward,,,person,no
+248,Robert B. Livingston,,,person,no
+249,Eleanor Rosch,,,person,no
+250,Patricia Smith Churchland,,,person,no
+251,Antonio R. Damasio,,,person,no
+252,Larry R. Squire,,,person,no
+253,J. Allan Hobson,,,person,no
+254,Lewis L. Judd,,,person,no
+255,Richard Davidson,,,person,no
+256,Daniel Brown,,,person,no
+257,Lee Yearly,,,person,no
+258,Daniel Goleman,,,person,no
+259,Sharon Salzberg,,,person,no
+260,Jon Kabat-Zinn,,,person,no
+261,Jerome Engel,,,person,no
+262,Jayne Gackenbach,,,person,no
+263,Joyce McDougall,,,person,no
+264,Charles Taylor,,,person,no
+265,B. Alan Wallace,,,person,no
+266,Paul Bourgine,,,person,no
+267,Jonathan Shear,,,person,no
+268,Jean Petitot,,,person,no
+269,Bernard Pachoud,,,person,no
+270,Jean-Michel Roy,,,person,no
+271,Hugo Kükelhaus,,,person,no
+272,Nicholas Spencer,,,person,no
+273,Marcus Textor,,,person,no
+274,Sri Anirvan,,,person,no
+275,Paul Feyerabend,,,person,no
+276,Harald Atmanspacher,m,1955,person,yes
+277,Wilhelm Reich,,,person,no
+278,G. C. Jung,,,person,no
+279,Joachim Ernst Berendt,,,person,no
+280,Chikuen Kugai Roshi (Henry Platov),,,person,no
+281,Stephano Sabetti,,,person,no
+282,Peter Baumann,,,person,no
+283,Georg Verden,,,person,no
+284,Shunryu Suzuki Roshi,,,person,no
+285,Werner Heisenberg,,,person,no
+286,Karlfried Graf Dürckheim,,,person,no
+287,Y. Takao,,,person,no
+288,Kentin Tai Situpa,,,person,no
+289,Adolf Muschg,,,person,yes
+290,Mia Segal,,,person,no
+291,Milton Erickson,,,person,no
+292,Virginia Satir,,,person,no
+293,Anna Halprin,,,person,no
+294,John Lilly,,,person,no
+295,Stephen Gilligan,,,person,no
+296,Sergio Bellucci,,,person,yes
+297,Rainer Boesch,m,1938,person,yes
+298,Bruno Dalle Carbona,m,1961,person,yes
+299,Gail Fleischaker,w,,person,yes
+300,Bilge Gülec,w,,person,yes
+301,Erwin Kessler,m,1944,person,yes
+302,Heidi Kessler,w,1946,person,yes
+303,Andreas Kistler,m,1943,person,yes
+304,Irene Kummer,w,1944,person,yes
+305,Marco Maestro,m,1928,person,yes
+306,Terence McKenna,m,1946,person,yes
+307,Jakob Nüesch,m,1932,person,yes
+308,James A. Ogilvy,m,,person,yes
+309,Helmut Remmler,m,1928,person,yes
+310,Dorothee Sölle,w,1929,person,yes
+311,Martin Spühler,m,1943,person,yes
+312,Karin Stumpf,w,1967,person,yes
+313,Klaus Von Berlepsch,m,1931,person,yes
+314,Stefano Colonna,,,person,no
+315,Fred von Allmen,m,1943,person,yes
+316,Yamada Koun Roshi,,,person,no
+317,Ralph H. Abraham,,,person,no
+318,Fatima Mernissi,w,1940,person,yes
+319,Peter Schwartz,,,person,no
+320,Catherine Chrétien,w,,person,yes
+321,Béatrice Elsener,w,1953,person,yes
+322,Charles Enz,m,1925,person,yes
+323,Padre Don Sante Felici,m,,person,yes
+324,Bettina Heintz,w,1949,person,yes
+325,Rudolf Högger,m,1940,person,yes
+326,Olaf Kübler,m,1944,person,yes
+327,Antonio Lazcano,m,1950,person,no
+328,Rainer Matschuck,m,1946,person,yes
+329,Pamela McCorduck,w,1940,person,yes
+330,K. Alex Müller,m,1927,person,no
+331,Marco Pogacnik,m,1944,person,yes
+332,Tullio Regge,m,1931,person,yes
+333,Michael Vetter,m,1943,person,yes
+334,Marianne Zimmermann,w,1943,person,yes
+335,Andre Dreiding,,,person,yes
+336,S. Ris,,,person,yes
+337,Georg Weissmann,m,,person,yes
+338,Konrad Hungerbühler,,,person,yes
+339,Rangjung Rigpe Dorje,,,person,no
+340,Kalu Rinpoche,,,person,no
+341,Chee Kim Thong,,,person,no
+342,Wolfgang Pauli,,,person,no
+343,Gerhard Huber,,,person,no
+344,Herbert van Erkelens,,,person,no
+345,Rigmor Robert,,,person,no
+346,Wilhelm Just,,,person,no
+347,Marlis Buchmann,,,person,yes
+348,Kurt Osterwalder,,,person,yes
+349,Günter Haffelder,,,person,yes
+350,Vidyadhar Vaidya,,,person,yes
+351,Holger Morgenstern,,,person,yes
+352,John Maddox,,,person,yes
+353,Luc Steels,,,person,yes
+354,Yehuda Elkana,m,1934,person,yes
+355,Helga Nowotny,w,1937,person,yes
+356,Martin Quack,,,person,yes
+357,Otto Roessler,,,person,yes
+358,Anton Amann,,,person,no
+359,Carl Friedrich von Weizsäcker,,,person,no
+2001,ETH Zürich,,,organization,
+2002,Universität Rom III,,,organization,
+2003,Scola Normale Superiore,,,organization,
+2004,IAP (Institut für Angewandte Psychologie),,,organization,
+2005,Universität Köln,,,organization,
+2006,"Center for European Studies, Harvard University",,,organization,
+2007,Universität Zürich,,,organization,
+2008,Univerisät Wien,,,organization,
+2009,Fundamental Fyssiks Group,,,organization,
+2010,Ciba-Geigy AG,,,organization,
+2011,Auroville,,,organization,
+2012,Johns Hopkins University,,,organization,
+2013,"Department of History, University of Victoria",,,organization,
+2014,University of Warwick,,,organization,
+2015,Birbeck College,,,organization,
+2016,"University of California, Berkeley",,,organization,
+2017,Universität Basel,,,organization,
+2018,Lindisfarne Fellows,,,organization,
+2019,World Future Society,,,organization,
+2020,Zoologisches Museum der Universität Zürich,,,organization,
+2021,Sandoz,,,organization,
+2022,Spiritualist Association Of Great Britain,,,organization,
+2023,"University of California, San Diego",,,organization,
+2024,Universität Genf,,,organization,
+2025,Kloster Mount Saviour,,,organization,
+2026,Departement Umweltnaturwissenschaften der ETH Zürich,,,organization,
+2027,Tassajara Zen Mountain Center ,,,organization,
+2028,Cornell University,,,organization,
+2029,MIT,,,organization,
+2030,York Univerity,,,organization,
+2031,Harvard University,,,organization,
+2032,Max Planck Institute for Brain Research,,,organization,
+2033,Centre national de la recherche scientifique (CNRS),,,organization,
+2034,University of Chile,,,organization,
+2035,Mind and Life Institute,,,organization,
+2036,Amherst College,,,organization,
+2037,George Mason University,,,organization,
+2038,Universität Fribourg,,,organization,
+2039,Jesuitenorden,,,organization,
+2040,Universität St. Gallen,,,organization,
+2041,New Camaldoli Hermitage,,,organization,
+2042,Fordham University,,,organization,
+2043,Pontifical Council for Interreligious Dialogue,,,organization,
+2044,Athenaeum Anselmianum,,,organization,
+2045,Esalen Institut,,,organization,
+2046,Schweizerische Akademie der Geistes- und Sozialwissenschaften,,,organization,
+2047,diehasena,,,organization,
+2048,AGU (Arbeitsgemeinschaft Umwelt),,,organization,
+2049,Indian Administrative Service,,,organization,
+2050,"Komission für interdiziplinäre Veranstaltungen, ETH Zürich",,,organization,
+2051,Costeau Society,,,organization,
+2052,Futures Research Quarterly,,,organization,
+2053,U.S. Congres office of Technology Assessment,,,organization,
+2054,National Academy of Engineering,,,organization,
+2055,National Science Foundation,,,organization,
+2056,Zoologisches Museum der Universität Zürich,,,organization,
+2057,International Institute for Bioenergetic Analysis,,,organization,
+2058,Buddhists concerned for Animals,,,organization,
+2059,Center for Spiritual Studies,,,organization,
+2060,Kabir Universität,,,organization,
+2061,Universität Bern,,,organization,
+2062,Das Forschungs- und Ausbildungszentrum für Tiefenpsychologie nach C.G. Jung und M.-L. von Franz ,,,organization,
+2063,Evangelischen Studienzentrum Boldern,,,organization,
+2064,Lund Universität,,,organization,
+2065,"Institut für Astronomie, ETH Zürich",,,organization,
+2066,Institut für theoretische Physik der Universität Wien,,,organization,
+2067,Albert-Ludwigs-Universität Freiburg,,,organization,
+2068,C. G. Jung Institut,,,organization,
+2069,F. Hoffmann-La-Roche & Co. Ag,,,organization,
+2070,Givaudan Forschungsgesellschaft,,,organization,
+2071,Universität Venedig,,,organization,
+2072,Tagesklinik für Kinder- und Jugendpsychiatrie,,,organization,
+2073,Interspecies Communication,,,organization,
+2074,Schweizerisches Zentrum für Computermusik (SZCM),,,organization,
+2075,Tibet-Institut Rikon,,,organization,
+2076,University of Colorado,,,organization,
+2077,The Times,,,organization,
+2078,Neue Analysen für Wirtschaft und Umwelt (NAWU),,,organization,
+2079,"Institut für Kristallographie und Petrographie, ETHZ",,,organization,
+2080,Interdisziplinäre Vorlesungreihe der Universität Zürich,,,organization,
+2081,Schauspiel Akademie Zürich,,,organization,
+2082,Umweltzentrum für Ökologicshe Strukturforschung Schloss Türnich,,,organization,
+2083,Dianus-Trikont-Verlag,,,organization,
+2084,"Department of Pathology, University of New South Wales",,,organization,
+2085,Bristol University,,,organization,
+2086,King's College London,,,organization,
+2087,"Geographisches Institut, ETHZ",,,organization,
+2088,Wissenschaft-Departement der Europäischnen Weltraum-Organisation (ESA),,,organization,
+2089,Hida Global Institute of Human Art,,,organization,
+2090,Hebräische Universität,,,organization,
+2091,Weizmann-Institut,,,organization,
+2092,Freie Universität Berlin,,,organization,
+2093,C. G. Jung-Institut Berlin,,,organization,
+2094,Kinder- und Jugendpschiatrischen Beratungstelle,,,organization,
+2095,Universität Salzburg,,,organization,
+2096,Forschungsstelle für Ökopychologie der frühen Kindheit,,,organization,
+2097,University of Texas at Austin,,,organization,
+2098,Shogen-dojo,,,organization,
+2099,Balaton Group,,,organization,
+2100,Eawag,,,organization,
+2101,Mitsubishi Research Institute,,,organization,
+2102,Zen Meditiation and Study Center,,,organization,
+2103,San Francisco Zen Center,,,organization,
+2104,Green Gulch Zen Practice Community and Farm,,,organization,
+2105,Dharma Sangha Western Zen Center,,,organization,
+2106,Santa Fe Zen Center,,,organization,
+2107,Colorado Zen Mountain Retreat,,,organization,
+2108,Max-Planck-Institut für Phyik,,,organization,
+2109,Doshisha University,,,organization,
+2110,Meditations- und Therapiezentrum von Prof. K. Dürckheim,,,organization,
+2111,Universität Bonn,,,organization,
+2112,Die Grünen,,,organization,
+2113,Öko-Institut,,,organization,
+2114,Sapienza Universita di Roma,,,organization,
+2115,Istituto Nazionale di Geofisica (ING),,,organization,
+2116,Alusuisse-Lonza Services AG,,,organization,
+2117,INSEAD,,,organization,
+2118,Universität Heidelberg,,,organization,
+2119,Pädagogische Hochschule Berlin,,,organization,
+2120,TU Berlin,,,organization,
+2121,Universität Marburg,,,organization,
+2122,Albert Einstein College of Medicine,,,organization,
+2123,Karolinske Institut,,,organization,
+2124,The Natural Step,,,organization,
+2125,Wien Barock,,,organization,
+2126,Wiener Musikhochschule,,,organization,
+2127, Groupe de Recherches Musicales (GRM),,,organization,
+2128,Institut de recherche et coordination acoustique/musique (IRCAM),,,organization,
+2129,EPFL,,,organization,
+2130,Boston University,,,organization,
+2131,Universität Stuttgart,,,organization,
+2132,Verein gegen Tierfabriken Schweiz,,,organization,
+2133,Verein gegen Tierfabriken Österreich,,,organization,
+2134,Nationale Aktion gegn die Überfremdung von Volk und Heimat,,,organization,
+2135,The Human Farming Association,,,organization,
+2136,Schweizerische Gesellschaft für Individualpsycyhologie (SGIPA),,,organization,
+2137,Universität Florenz,,,organization,
+2138,Universität Bari,,,organization,
+2139,Unione Scienziati per il Disarmo,,,organization,
+2140,Interdepartmental Reesarch on Peace Center of Bari,,,organization,
+2141,Universität Mohammed V,,,organization,
+2142,UNESCO,,,organization,
+2143,Brandeis Universität,,,organization,
+2144,Hochschulbeirat der Vereinten Nationen,,,organization,
+2145,Global Business Network,,,organization,
+2146,Yale University,,,organization,
+2147,Stanford Research Institute,,,organization,
+2148,Global Business Network (GBN),,,organization,
+2149,Internationale Gesellschaft für Tiefenpsychologie,,,organization,
+2150,Müncher Arbeitsgemeinschaft für Psychoanalyse,,,organization,
+2151,Union Theological Seminary New York,,,organization,
+2152,Psychoanalitisches Seminar Luzern,,,organization,
+2153,Universität Neuenburg,,,organization,
+2154,Universität Mainz,,,organization,
+2155,Universität Bielefeld,,,organization,
+2156,Nationale Forschungsprogramm der Schweiz für Künstliche Intelligenz und Robotik,,,organization,
+2157,Eidgenössisches Department für Auwärtiges,,,organization,
+2158,Schweizerisch Staatliche Entwicklungshilfe,,,organization,
+2159,International Center for Integrated Mountain Development (ICIMOD),,,organization,
+2160,Nationala Autonomous University of Mexico,,,organization,
+2161,IBM Research Laboratory,,,organization,
+2162,OHO,,,organization,
+2163,Sempas-Familie,,,organization,
+2164,Rochester University,,,organization,
+2165,Universität Turin,,,organization,
+2166,Europäisches Parlament,,,organization,
+2167,Comitato Italiano per il Controllo delle Affermazioni sulle Pseudoscienze (CICAP),,,organization,
+2168,Schule für Tanz- und Bewegungstherapie,,,organization,
+2169,Ludwig-Maximilians-Universität München,,,organization,
+2170,Institut für Grenzgebiete der Psychologie e. V.,,,organization,
+2171,Santa Fe Institute,,,organization,
+2172,Universität Regensburg,,,organization,
+2173,"Cohn Institut for the History and PHilosophy of Science and Ideas, Tel Aviv University",,,organization,
+2174,Van Leer Jerusalem Institute,,,organization,
+2175,Wissenschaftskolleg Berlin,,,organization,
+2176,Collegium Budapest,,,organization,
+3069,Public official,,,occupation,
+3070,Asistenz-Professor:in,,,occupation,
+3071,Redakteur:in,,,occupation,
+3072,Freie:r Schriftsteller:in,,,occupation,
+3073,Professor:in,,,occupation,
+3074,Präsident:in,,,occupation,
+3075,Prorektor:in,,,occupation,
+3076,Advisor,,,occupation,
+3077,Intellectual,,,occupation,
+3078,Künstler:in,,,occupation,
+3079,Forscher:in,,,occupation,
+3080,Heiler:in,,,occupation,
+3081,Musiker:in,,,occupation,
+3082,Psychiater:in,,,occupation,
+3083,Privatdozent:in,,,occupation,
+3084,Leiter:in,,,occupation,
+3085,Priester,,,occupation,
+3086,Mönch/Nonne,,,occupation,
+3087,Arzt/Ärztin,,,occupation,
+3088,Psychotherapeut:in,,,occupation,
+3089,Associate Professor,,,occupation,
+3090,Buddhismus,,,occupation,
+3091,Schauspieler:in,,,occupation,
+3092,Bewegungstherapeut:in,,,occupation,
+3093,Dekan,,,occupation,
+3094,Journalist:in,,,occupation,
+3095,Lecturer,,,occupation,
+3096,Architekt:in,,,occupation,
+3097,Aromatherapeut:in,,,occupation,
+3098,Lehrbeauftragte:r,,,occupation,
+3099,Wissenschaftliche:r Mitarbeiter:in,,,occupation,
+3100,Entwicklungshelfer:in,,,occupation,
+3101,Mitglied,,,occupation,
+3102,Bibliothekar:in,,,occupation,
+3103,Seminarleiter:in,,,occupation,
+3104,Mitarbeiter:in,,,occupation,
+3105,spirituelle:r Lehrer:in,,,occupation,
+3106,Übersetzer:in,,,occupation,
+3107,Management,,,occupation,
+3108,Aktivist:in,,,occupation,
+3109,Politiker:in,,,occupation,
+3110,Entrepeneur,,,occupation,
+4001,Wissenschaftsgeschichte,,,subject,
+4002,Physik,,,subject,
+4003,Religion,,,subject,
+4004,Kunst,,,subject,
+4005,Chemie,,,subject,
+4006,Musik,,,subject,
+4007,Medizin,,,subject,
+4008,Psychotherapie,,,subject,
+4009,Alternative Heilmethoden,,,subject,
+4010,Zen-Buddhismus,,,subject,
+4011,Pychologie,,,subject,
+4012,Geschichte,,,subject,
+4013,Biologie,,,subject,
+4014,Anthropologie,,,subject,
+4015,Astrologie,,,subject,
+4016,Esosterische Pychologie,,,subject,
+4017,Deutsche Sprache und Literatur,,,subject,
+4018,Yoga,,,subject,
+4019,Spirituelle Techniken,,,subject,
+4020,Architektur,,,subject,
+4021,Philosophie,,,subject,
+4022,Agrarwissenschaft,,,subject,
+4023,Volkswirtschaft,,,subject,
+4024,Schauspiel,,,subject,
+4025,Literaturwissenschaft,,,subject,
+4026,Biochemistry,,,subject,
+4027,Molekularspektroskopie,,,subject,
+4028,Interdisciplinary,,,subject,
+4029,Oriental Studies,,,subject,
+4030,Englisch,,,subject,
+4031,Geological Sciences,,,subject,
+4032,Pharmazie,,,subject,
+4033,Wirtschaft,,,subject,
+4034,Bewegungstherapie,,,subject,
+4035,Geographie,,,subject,
+4036,Bauingenieur,,,subject,
+4037,Ökologie,,,subject,
+4038,Politik Wissenschaften,,,subject,
+4039,Kampfsport,,,subject,
+4040,Soziologie,,,subject,
+5001,The Systems View of Life: A Unifying Vision,,,publication,
+5002,The Reenchantment of the World,,,publication,
+5003,Coming to Our Senses: Body and Spirit in the Hidden History of the West,,,publication,
+5004,Wandering God: A Study in Nomadic Spirituality,,,publication,
+5005,The Twilight of American Culture,,,publication,
+5006,Dark Ages America: The Final Phase of Empire,,,publication,
+5007,Quantum Theory,,,publication,
+5008,Causality and Chance in Modern Physics,,,publication,
+5009,"Quanta and Reality, A Symposium",,,publication,
+5010,The Special Theory of Relativity,,,publication,
+5011,Wholeness and the Implicate Order,,,publication,
+5012,Unfolding Meaning: A weekend of dialogie with David Bohm,,,publication,
+5013,The Ending of Time,,,publication,
+5014,"Science, Order, and Creativity",,,publication,
+5015,Meaning and Information in: The Search for Meaning: The New Spirit in Science and Philosophy,,,publication,
+5016,"Changing Consciouness: Exploring the Hidden Source of the Social, Political and Environmental Crises Facing our World",,,publication,
+5017,The Undivided Universe: An ontological interpretation of quantum theory,,,publication,
+5018,Creating Alternative Futures: The End of Economics,,,publication,
+5019,The Politics of the Solar Age ,,,publication,
+5020,"Redefining Wealth and Progress: New Ways to Measure Economic, Social, and Environmental Change : The Caracas Report on Alternative Development Indicators",,,publication,
+5021,Paradigms in Progress,,,publication,
+5022,Building a Win-Win World,,,publication,
+5023,Wege in ein neues Bewusstsein: Skizzen zu einer neuen Welt,,,publication,
+5024,Andere Wirklichkeiten. Die neue Konvergenz von Naturwissenschaften und spirituellen Traditionen,,,publication,
+5025,Belonging to the Universe: Explorations on the Frontiers of Science and Spirituality,,,publication,
+5026,"The Ground We Share: Everyday Practice, Buddhist and Christian",,,publication,
+5027,Gaia. A Way of Knowing: Political Implications of the New Biology,,,publication,
+5028,Gaia 2: Emergence: The New Science of Becoming,,,publication,
+5029,Autopoiesis and Cognition: The realization of the living,,,publication,
+5030,The Tree of Knowledge: A new look at the biological roots of human understanding,,,publication,
+5031,The Embodied Mind: Cognitive cience and human experience,,,publication,
+5032,Toward a Practice of Autonomous Systems: Proceedings of the First European Conference on Artificial Life,,,publication,
+5033,The View from Within: First-person Approaches to the Study of Consciousness,,,publication,
+5034,Naturalizing Phenomenology: Issues in Contemporary Phenomenology and Cognitive Science,,,publication,
+5035,Angels Fear: Towards an Epistemology of the Sacred,,,publication,
+5036,Der Pauli-Jung-Dialog und seine Bedeutung für die moderne Wissenschaft,,,publication,
+5037,Elementare Quantenchemie,,,publication,
+5038,"Imagination of an Insurrection, Dublin, Easter 1916: A Study of an Ideological Movement",,,publication,
+5039,Passages about Earth: An Exploration of the New Planetary Culture,,,publication,
+5040,The Time Falling Bodies Take to Light,,,publication,
+5041,Blue Jade from the Morning Star: An Essay and a Cycle of Poems on Quatzalcoatl,,,publication,
+5042,Yoga and the Jesus Prayer Tradition: An Experiment in Faith,,,publication,
+5043,Self-Production of Supramolecular Structures: From Synthetic Structures to Models of Minimal Living Systems,,,publication,
+5044,"Trialogues at the Edge of the West: Chaos, Creativity and the Resacralization fo the World",,,publication,
+5045,"On Quanta,Mind and Matter: Hans Primas in Context",,,publication,
+5046,Nutzniesser und Betroffene von Wissenschaften,,,publication,
+5047,Wissenschaft und Tradition,,,publication,
+5048,Kunst und Wissenschaft,,,publication,
+5049,Grenzprobleme der Wissenschaften,,,publication,
+5050,"Leben mit den ""Acht Todsünden der zivilisierten Menschheit""?",,,publication,
