@@ -129,7 +129,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 128,Nold Egenter,m,1938,person,yes,no,2
 129,Mariann M. Hamel,w,1937,person,yes,no,2
 130,Geshe Geduen Sangpo,m,1917,person,yes,no,2
-131,Ursula Rathgeb,w,,person,no,no,2
+131,Ursula Rathgeb,w,,person,yes,no,2
 132,Agatha Wydler,w,1945,person,yes,no,2
 133,Samy Frenk,m,1934,person,yes,no,2
 134,Noemi Frenk,w,,person,yes,no,2
@@ -143,7 +143,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 142,Paul Watzlawick,m,1921,person,yes,no,2
 143,Heinz Herzka,m,1935,person,yes,no,2
 144,Al Huang,,,person,yes,no,2
-145,Antonio Greco,,,person,no,no,2
+145,Antonio Greco,,,person,yes,no,2
 146,Jim Nollman,m,1947,person,yes,no,2
 147,Humberto Maturana,m,1928,person,yes,no,2
 148,Hanna Lifson,,,person,yes,no,2
@@ -325,10 +325,10 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 324,Bettina Heintz,w,1949,person,yes,no,2
 325,Rudolf Högger,m,1940,person,yes,no,2
 326,Olaf Kübler,m,1944,person,yes,no,2
-327,Antonio Lazcano,m,1950,person,no,no,2
+327,Antonio Lazcano,m,1950,person,yes,no,2
 328,Rainer Matschuck,m,1946,person,yes,no,2
 329,Pamela McCorduck,w,1940,person,yes,no,2
-330,K. Alex Müller,m,1927,person,no,no,2
+330,K. Alex Müller,m,1927,person,yes,no,2
 331,Marco Pogacnik,m,1944,person,yes,no,2
 332,Tullio Regge,m,1931,person,yes,no,2
 333,Michael Vetter,m,1943,person,yes,no,2
@@ -348,17 +348,17 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 347,Marlis Buchmann,,,person,yes,no,2
 348,Kurt Osterwalder,,,person,yes,no,2
 349,Günter Haffelder,m,1940,person,yes,no,2
-350,Vidyadhar Vaidya,,,person,yes,no,2
+350,Vidyadhar Vaidya,m,1939,person,yes,no,2
 351,Holger Morgenstern,m,1959,person,yes,no,2
 352,John Maddox,m,1925,person,yes,no,2
-353,Luc Steels,,,person,yes,no,2
+353,Luc Steels,m,1952,person,yes,no,2
 354,Yehuda Elkana,m,1934,person,yes,no,2
 355,Helga Nowotny,w,1937,person,yes,no,2
 356,Martin Quack,m,1948,person,yes,no,2
 357,Otto Roessler,m,1940,person,yes,no,2
 358,Anton Amann,,,person,no,no,2
 359,Carl Friedrich von Weizsäcker,,,person,no,no,2
-360,Manuel Laso,m,1959,person,no,no,2
+360,Manuel Laso,m,1959,person,yes,no,2
 361,David Spangler,m,1945,person,no,no,2
 362,Keiji Nishitani,m,1900,person,no,no,2
 363,David Orr,m,,person,no,no,2
@@ -371,6 +371,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 370,Thich Nhat Hanh,m,,person,no,no,2
 371,Dae Sahn sa Nim,m,,person,no,no,2
 372,Peter Schellenbaum,,,person,no,no,2
+373,Gereon Wolters,m,1944,person,no,no,2
 2001,ETH Zürich,,,organization,,,2
 2002,Universität Rom III,,,organization,,,2
 2003,Scola Normale Superiore,,,organization,,,2
@@ -561,6 +562,10 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 2189,Universität Erlangen-Nürnberg,,,organization,,,2
 2190,Eberhard-Karls-Universität Tübingen,,,organization,,,2
 2191,Institut für Psychodrama und Aktionsmethoden,,,organization,,,2
+2192,University of Antwerp,,,organization,,,2
+2193,Vrije Universiteit Brussel (VUB),,,organization,,,2
+2194,Justus-Liebig-Universität Giessen,,,organization,,,2
+2195,August-Weihe Institut für homöopathische Medizin,,,organization,,,2
 3069,Public official,,,occupation,,,2
 3070,Asistenz-Professor:in,,,occupation,,,2
 3071,Redakteur:in,,,occupation,,,2
@@ -644,6 +649,8 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 4039,Kampfsport,,,subject,,,2
 4040,Soziologie,,,subject,,,2
 4041,Jungsche Psychotherapie,,,subject,,,2
+4042,Computer Science,,,subject,,,2
+4043,Linguistik,,,subject,,,2
 5001,The Systems View of Life: A Unifying Vision,,,publication,,,2
 5002,The Reenchantment of the World,,,publication,,,2
 5003,Coming to Our Senses: Body and Spirit in the Hidden History of the West,,,publication,,,2
@@ -698,6 +705,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 5052,"GAIA- Ecological Perspectives for Science and Society
 
 ",,,publication,,,2
+5053,Umdenken in der Naturwissenschaft,,,publication,,,2
 6001,Cortona 1,,,event,,yes,2
 6002,Cortona 2,,,event,,yes,2
 6003,Perception,,,event,,yes,2
@@ -748,3 +756,4 @@ und alter spiritueller Traditionen.",,,event,,,2
 6047,A Light Governance for America: the Cultures and Strategies of Decentralization,,,event,,,2
 6048,Das Irrationale in den Naturwissenschaften: Wolfgang Paulis Begegnung mit dem Geist der Materie,,,event,,,2
 6049,Additional research,,,event,,,2
+6050,Mystics and Scientists,,,event,,,2
