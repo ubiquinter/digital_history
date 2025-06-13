@@ -1,0 +1,1266 @@
+;pk_participation;pk_event;fk_person;country;institute;occupation;subject
+0;1;1986;135.0;;;not available;
+1;2;1986;688.0;;;not available;
+2;3;1986;445.0;;;not available;
+3;4;1986;236.0;;;not available;
+4;5;1986;147.0;;;not available;
+5;6;1986;421.0;;;not available;
+6;7;1986;643.0;;;not available;
+7;8;1986;586.0;;;not available;
+8;9;1986;215.0;;;not available;
+9;10;1986;372.0;;;not available;
+10;11;1986;140.0;;;not available;
+11;12;1986;543.0;;;not available;
+12;13;1986;698.0;;;not available;
+13;14;1986;114.0;;;not available;
+14;15;1986;234.0;;;not available;
+15;16;1986;112.0;;;not available;
+16;17;1986;160.0;;;not available;
+17;18;1986;579.0;;;not available;
+18;19;1986;146.0;;;not available;
+19;20;1986;427.0;;;not available;
+20;21;1986;276.0;;;not available;
+21;22;1986;256.0;;;not available;
+22;23;1986;108.0;;;not available;
+23;24;1986;792.0;;;not available;
+24;25;1986;189.0;;;not available;
+25;26;1986;662.0;;;not available;
+26;27;1986;23.0;;;not available;
+27;28;1986;291.0;;;not available;
+28;29;1986;481.0;;;not available;
+29;30;1986;446.0;;;not available;
+30;31;1986;155.0;;;not available;
+31;32;1986;685.0;;;not available;
+32;33;1986;795.0;;;not available;
+33;34;1986;131.0;;;not available;
+34;35;1986;398.0;;;not available;
+35;36;1986;476.0;;;not available;
+36;37;1986;636.0;;;not available;
+37;38;1986;433.0;;;not available;
+38;39;1986;503.0;;;not available;
+39;40;1986;165.0;;;not available;
+40;41;1986;8.0;;;not available;
+41;42;1986;59.0;;;not available;
+42;43;1986;190.0;;;not available;
+43;44;1986;199.0;;;not available;
+44;45;1986;65.0;;;not available;
+45;46;1986;28.0;;;not available;
+46;47;1986;105.0;;;not available;
+47;48;1986;257.0;;;not available;
+48;49;1986;617.0;;;not available;
+49;50;1986;506.0;;;not available;
+50;51;1986;684.0;;;not available;
+51;52;1986;297.0;;;not available;
+52;53;1986;607.0;;;not available;
+53;54;1986;788.0;;;not available;
+54;55;1986;740.0;;;not available;
+55;56;1986;72.0;;;not available;
+56;57;1986;401.0;;;not available;
+57;58;1986;718.0;;;not available;
+58;59;1986;376.0;;;not available;
+59;60;1986;491.0;;;not available;
+60;61;1986;583.0;;;not available;
+61;62;1986;699.0;;;not available;
+62;63;1986;756.0;;;not available;
+63;64;1986;777.0;;;not available;
+64;65;1986;478.0;;;not available;
+65;66;1986;789.0;;;not available;
+66;67;1986;214.0;;;not available;
+67;68;1986;294.0;;;not available;
+68;69;1986;614.0;;;not available;
+69;70;1986;302.0;;;not available;
+70;71;1986;436.0;;;not available;
+71;72;1986;649.0;;;not available;
+72;73;1986;243.0;;;not available;
+73;74;1986;782.0;;;not available;
+74;75;1986;221.0;;;not available;
+75;76;1986;245.0;;;not available;
+76;77;1986;517.0;;;not available;
+77;78;1986;178.0;;;not available;
+78;79;1986;566.0;;;not available;
+79;80;1986;151.0;;;not available;
+80;81;1986;281.0;;;not available;
+81;82;1986;630.0;;;not available;
+82;83;1986;510.0;;;not available;
+83;84;1986;122.0;;;not available;
+84;85;1986;772.0;;;not available;
+85;86;1986;745.0;;;not available;
+86;87;1986;746.0;;;not available;
+87;88;1986;213.0;;;not available;
+88;89;1986;222.0;;;not available;
+89;90;1986;241.0;;;not available;
+90;91;1986;511.0;;;not available;
+91;92;1986;196.0;;;not available;
+92;93;1986;519.0;;;not available;
+93;94;1986;358.0;;;not available;
+94;95;1986;382.0;;;not available;
+95;96;1986;87.0;;;not available;
+96;97;1986;763.0;;;not available;
+97;98;1986;280.0;;;not available;
+98;99;1986;125.0;;;not available;
+99;100;1986;784.0;;;not available;
+100;101;1986;235.0;;;not available;
+101;102;1986;392.0;;;not available;
+102;103;1986;198.0;;;not available;
+103;104;1986;37.0;;;not available;
+104;105;1986;244.0;;;not available;
+105;106;1986;430.0;;;not available;
+106;107;1986;230.0;;;not available;
+107;108;1986;600.0;;;not available;
+108;109;1986;166.0;;;not available;
+109;110;1986;303.0;;;not available;
+110;111;1986;535.0;;;not available;
+111;112;1986;10.0;;;not available;
+112;113;1986;96.0;;;not available;
+113;114;1986;231.0;;;not available;
+114;115;1986;273.0;;;not available;
+115;116;1986;322.0;;;not available;
+116;117;1986;429.0;;;not available;
+117;118;1986;613.0;;;not available;
+118;119;1986;615.0;;;not available;
+119;120;1986;68.0;;;not available;
+120;121;1986;771.0;;;not available;
+121;122;1986;399.0;;;not available;
+122;123;1986;773.0;;;not available;
+123;124;1986;262.0;;;not available;
+124;125;1986;318.0;;;not available;
+0;126;1989;299.0;Schweiz;;Medizin;
+1;127;1989;115.0;Indien;;Office;
+2;128;1989;730.0;Italien;;DO;Psychologie
+3;129;1989;442.0;Schweiz;;DO;Physik
+4;130;1989;20.0;Schweiz;;MA;Wald- u. Holzforschung
+5;131;1989;300.0;Schweiz;;Dozent:in;
+6;132;1989;586.0;Schweiz;;DO;Geologie
+7;133;1989;443.0;Schweiz;;ST;Geschichte
+8;134;1989;323.0;Schweiz;;MA;Bibliothekarin
+9;135;1989;372.0;Schweiz;;Künstler:in;
+10;136;1989;732.0;Österreich;;DO;Physik
+11;137;1989;543.0;Schweiz;;Medizin;
+12;138;1989;697.0;Schweiz;;not available;
+13;139;1989;114.0;Schweiz;;MA;Zoologie
+14;140;1989;171.0;Schweiz;;DO;Biochemie
+15;141;1989;16.0;Frankreich;;not available;
+16;142;1989;432.0;Schweiz;;Therapie;
+17;143;1989;645.0;Schweiz;;DO;Chemie
+18;144;1989;112.0;Österreich;;Akademisch;
+19;145;1989;160.0;Deutschland;;Künstler:in;
+20;146;1989;529.0;Australien;;Medizin;
+21;147;1989;263.0;Schweiz;;DO;Physik
+22;148;1989;639.0;Schweiz;;not available;
+23;149;1989;358.0;Schweiz;;Dozent:in;
+24;150;1989;382.0;Schweiz;;not available;
+25;151;1989;217.0;Schweiz;;Dozent:in;
+26;152;1989;304.0;Schweiz;;ST;Biologie
+27;153;1989;280.0;Schweiz;;Künstler:in;
+28;154;1989;129.0;Österreich;;not available;
+29;155;1989;37.0;Schweiz;;not available;
+30;156;1989;778.0;Schweiz;;DO;Molekularbiologie
+31;157;1989;279.0;Deutschland;;Therapie;
+32;158;1989;94.0;Schweiz;;not available;
+33;159;1989;600.0;Schweiz;;Chemiker:in;
+34;160;1989;417.0;Schweiz;;not available;
+35;161;1989;166.0;Deutschland;;Therapie;
+36;162;1989;524.0;Schweiz;;ST;
+37;163;1989;139.0;Schweiz;;ST;
+38;164;1989;10.0;USA;;DO;Physik
+39;165;1989;96.0;Schweiz;;Chemiker:in;
+40;166;1989;153.0;Schweiz;;ST;phil. I
+41;167;1989;231.0;Schweiz;;Therapie;
+42;168;1989;653.0;Schweiz;;not available;
+43;169;1989;80.0;Schweiz;;ST;Musik
+44;170;1989;7.0;Schweiz;;Therapie;
+45;171;1989;429.0;Schweiz;;DO;Chemie
+46;172;1989;134.0;Schweiz;;not available;
+47;173;1989;751.0;Schweiz;;Office;
+48;174;1989;262.0;Schweiz;ETH-Z;ST;
+49;175;1989;561.0;Schweiz;;Architekt:in;
+50;176;1989;488.0;Schweiz;;not available;
+51;177;1989;233.0;Deutschland;;ST;Musik
+52;178;1989;332.0;Österreich;;ST;Physik
+53;179;1989;189.0;Schweiz;;MA;Landwirtschaft
+54;180;1989;674.0;Spanien;;Therapie;
+55;181;1989;609.0;Schweiz;;DO;Chemie
+56;182;1989;570.0;Schweiz;;ST;Biologie
+57;183;1989;663.0;Schweiz;;MA;Lebensmittelwiss.
+58;184;1989;64.0;Schweiz;;ST;Psychologie
+59;185;1989;725.0;Schweiz;;Dozent:in;
+60;186;1989;481.0;Schweiz;;Therapie;
+61;187;1989;735.0;Schweiz;EAWAG;MA;
+62;188;1989;795.0;Schweiz;;Künstler:in;
+63;189;1989;474.0;Schweiz;;Therapie;
+64;190;1989;223.0;Schweiz;;ST;Physik
+65;191;1989;636.0;Schweiz;;MA;Atmosphärenphysik
+66;192;1989;503.0;Deutschland;;not available;
+67;193;1989;321.0;Schweiz;;Therapie;
+68;194;1989;271.0;Schweiz;;Medizin;
+69;195;1989;546.0;Schweiz;;Akademisch;
+70;196;1989;59.0;Schweiz;;Künstler:in;
+71;197;1989;190.0;Schweiz;;Chemiker:in;
+72;198;1989;500.0;Niederlande;;Dozent:in;
+73;199;1989;804.0;Japan;;not available;
+74;200;1989;65.0;Schweiz;;Akademisch;
+75;201;1989;537.0;Frankreich;;Künstler:in;
+76;202;1989;319.0;Österreich;;Chemiker:in;
+77;203;1989;363.0;Schweiz;;ST;Biologie
+78;204;1989;105.0;Schweiz;;DO;Physik
+79;205;1989;581.0;Italien;;ST;Physik
+80;206;1989;470.0;Schweiz;;Lehrer:in;
+81;207;1989;626.0;Schweiz;;not available;
+82;208;1989;617.0;Schweiz;;DO;Chemie
+83;209;1989;675.0;Schweiz;;ST;Phil. I
+84;210;1989;644.0;Italien;;Künstler:in;
+85;211;1989;687.0;Italien;;not available;
+86;212;1989;297.0;Israel;;Dozent:in;
+87;213;1989;684.0;Israel;;Dozent:in;
+88;214;1989;325.0;Österreich;;ST;Physik
+89;215;1989;592.0;Schweiz;;DO;Chemie
+90;216;1989;607.0;Schweiz;;Dozent:in;
+91;217;1989;77.0;Schweiz;;MA;
+92;218;1989;593.0;Schweiz;;Chemiker:in;
+93;219;1989;719.0;Schweiz;;ST;
+94;220;1989;339.0;Chile;;Dozent:in;
+95;221;1989;477.0;Schweiz;;ST;Medizin
+96;222;1989;437.0;;;not available;
+97;223;1989;718.0;Schweiz;;Künstler:in;
+98;224;1989;376.0;Schweiz;;Therapie;
+99;225;1989;583.0;Schweiz;;Chemiker:in;
+100;226;1989;650.0;Schweiz;;MA;
+101;227;1989;756.0;Schweiz;;Dozent:in;
+102;228;1989;779.0;Schweiz;;not available;
+103;229;1989;350.0;Schweiz;;ST;Lehrerseminar
+104;230;1989;430.0;Frankreich;;Therapie;
+105;231;1989;183.0;Italien;;Künstler:in;
+106;232;1989;614.0;Schweiz;;DO;Chemie
+107;233;1989;383.0;Schweiz;;Lehrer:in;
+108;234;1989;789.0;Schweiz;;Dozent:in;
+109;235;1989;208.0;Österreich;;not available;
+110;236;1989;331.0;Österreich;;Dozent:in;
+111;237;1989;302.0;Schweiz;;Dozent:in;
+112;238;1989;709.0;Schweiz;;DO;Chemie
+113;239;1989;377.0;Deutschland;;Medizin;
+114;240;1989;767.0;Schweiz;;Office;
+115;241;1989;245.0;Schweiz;;DO;Biochemie
+116;242;1989;93.0;Schweiz;;DO;Biochemie
+117;243;1989;5.0;Schweiz;;Akademisch;
+118;244;1989;218.0;Italien;;Künstler:in;
+119;245;1989;151.0;Schweiz;;Therapie;
+120;246;1989;391.0;Schweiz;;Akademisch;
+121;247;1989;598.0;Schweiz;;DO;Chemie
+122;248;1989;790.0;Schweiz;;Dozent:in;
+123;249;1989;744.0;Österreich;;ST;Informatik
+124;250;1989;225.0;Schweiz;;ST;Biologie
+125;251;1989;599.0;Schweiz;;Chemiker:in;
+126;252;1989;745.0;Schweiz;;DO;Chemie
+127;253;1989;213.0;Schweiz;;not available;
+128;254;1989;45.0;Schweiz;;Medizin;
+129;255;1989;606.0;Schweiz;;Office;
+130;256;1989;123.0;Schweiz;;not available;
+131;257;1989;196.0;Schweiz;;Dozent:in;
+0;258;1991;724.0;Schweiz;;Dozent:in;
+1;259;1991;154.0;Schweiz;;Office;
+2;260;1991;602.0;Schweiz;;ST;Informatik
+3;261;1991;333.0;Deutschland;;Akademisch;
+4;262;1991;53.0;Schweiz;;Unternehmer:in;
+5;263;1991;393.0;Deutschland;;Künstler:in;
+6;264;1991;91.0;Deutschland;;not available;
+7;265;1991;311.0;Deutschland;Max-Planck-Institut;MA;
+8;266;1991;571.0;Schweiz;;DO;Chemie
+9;267;1991;115.0;Indien;;Office;
+10;268;1991;527.0;Österreich;;MA;Botanik
+11;269;1991;635.0;USA;;Therapie;
+12;270;1991;611.0;Italien;;Therapie;
+13;271;1991;729.0;Schweiz;;MA;
+14;272;1991;548.0;Schweiz;;ST;Phil. I
+15;273;1991;681.0;Schweiz;Zentrum für Weiterbildung;MA;
+16;274;1991;168.0;Schweiz;;ST;Landwirtschaft
+17;275;1991;442.0;Schweiz;;not available;
+18;276;1991;20.0;Schweiz;;DO;Holzforschung
+19;277;1991;305.0;Schweiz;;not available;
+20;278;1991;50.0;Schweiz;;not available;
+21;279;1991;431.0;Schweiz;;DO;Chemie
+22;280;1991;586.0;Schweiz;;DO;Geologie
+23;281;1991;215.0;Schweiz;;not available;
+24;282;1991;323.0;Schweiz;;MA;
+25;283;1991;136.0;Schweiz;;ST;Chemie
+26;284;1991;21.0;Schweiz;;ST;Chemie
+27;285;1991;372.0;Schweiz;;Künstler:in;
+28;286;1991;114.0;Schweiz;;MA;Zoologie
+29;287;1991;578.0;USA;;Therapie;
+30;288;1991;645.0;Schweiz;;DO;Chemie
+31;289;1991;163.0;Schweiz;;DO;Medizin
+32;290;1991;568.0;Schweiz;;ST;Psychologie
+33;291;1991;112.0;Österreich;;Akademisch;
+34;292;1991;160.0;Schweiz;;Künstler:in;
+35;293;1991;187.0;Schweiz;;Office;
+36;294;1991;776.0;Italien;;Dozent:in;
+37;295;1991;101.0;Schweiz;;not available;
+38;296;1991;336.0;England;;not available;
+39;297;1991;791.0;England;;not available;
+40;298;1991;665.0;Schweiz;;Akademisch;
+41;299;1991;427.0;Schweiz;;Dozent:in;
+42;300;1991;714.0;Schweiz;;Dozent:in;
+43;301;1991;306.0;Deutschland;;not available;
+44;302;1991;98.0;Schweiz;;not available;
+45;303;1991;332.0;Österreich;;ST;Physik
+46;304;1991;189.0;Schweiz;;MA;Landwirtschaft
+47;305;1991;648.0;Schweiz;;Unternehmer:in;
+48;306;1991;609.0;Schweiz;;DO;Chemie
+49;307;1991;64.0;Schweiz;;ST;Psychologie
+50;308;1991;518.0;Schweiz;;MA;
+51;309;1991;106.0;Schweiz;;MA;Kristallographie
+52;310;1991;157.0;USA;;Dozent:in;
+53;311;1991;391.0;Schweiz;;Office;
+54;312;1991;151.0;Schweiz;;Therapie;
+55;313;1991;509.0;Schweiz;;DO;Chemie
+56;314;1991;598.0;Schweiz;;MA;Organische Chemie
+57;315;1991;778.0;Schweiz;;DO;Molekularbiologie
+58;316;1991;225.0;Schweiz;;ST;Biologie
+59;317;1991;745.0;Schweiz;;DO;Chemie
+60;318;1991;712.0;Schweiz;;DO;Chemie
+61;319;1991;355.0;Schweiz;;ST;Psychologie
+62;320;1991;229.0;Deutschland;;Office;
+63;321;1991;186.0;USA;;not available;
+64;322;1991;196.0;Schweiz;;Dozent:in;
+65;323;1991;82.0;Deutschland;;Dozent:in;
+66;324;1991;280.0;Schweiz;;Künstler:in;
+67;325;1991;132.0;Deutschland;;Dozent:in;
+68;326;1991;129.0;Österreich;;not available;
+69;327;1991;272.0;Österreich;;not available;
+70;328;1991;577.0;Italien;;not available;
+71;329;1991;455.0;Schweiz;;MA;Botanik
+72;330;1991;244.0;France;;Dozent:in;
+73;331;1991;379.0;Österreich;;Künstler:in;
+74;332;1991;94.0;Schweiz;;ST;Psychologie
+75;333;1991;524.0;Schweiz;;ST;Chemie
+76;334;1991;725.0;Schweiz;;Dozent:in;
+77;335;1991;757.0;Deutschland;;Therapie;
+78;336;1991;795.0;Schweiz;;Künstler:in;
+79;337;1991;735.0;Schweiz;EAWAG;MA;
+80;338;1991;76.0;Schweiz;;Office;
+81;339;1991;474.0;Schweiz;;Therapie;
+82;340;1991;588.0;Schweiz;;ST;Medizin
+83;341;1991;589.0;Schweiz;;not available;
+84;342;1991;223.0;Schweiz;;ST;Physik
+85;343;1991;49.0;Schweiz;;not available;
+86;344;1991;624.0;Schweiz;;Office;
+87;345;1991;484.0;Deutschland;;not available;
+88;346;1991;8.0;Schweiz;;Chemiker:in;
+89;347;1991;190.0;Schweiz;;Chemiker:in;
+90;348;1991;239.0;Schweiz;;MA;
+91;349;1991;65.0;Schweiz;;Akademisch;
+92;350;1991;367.0;Schweiz;;ST;Physik
+93;351;1991;296.0;Schweiz;;Künstler:in;
+94;352;1991;19.0;Schweiz;;Therapie;
+95;353;1991;536.0;Schweiz;;ST;Chemie
+96;354;1991;105.0;Schweiz;;DO;Polymere
+97;355;1991;74.0;Deutschland;;not available;
+98;356;1991;416.0;Schweiz;;ST;
+99;357;1991;201.0;Schweiz;;Therapie;
+100;358;1991;644.0;Italien;;Künstler:in;
+101;359;1991;797.0;Österreich;;ST;Physik
+102;360;1991;600.0;Schweiz;;Chemiker:in;
+103;361;1991;127.0;Schweiz;;not available;
+104;362;1991;747.0;Schweiz;;DO;Chemie
+105;363;1991;440.0;Schweiz;;ST;Elektronik
+106;364;1991;10.0;USA;;DO;Physik
+107;365;1991;96.0;Schweiz;;Chemiker:in;
+108;366;1991;80.0;Schweiz;;ST;Musik
+109;367;1991;482.0;USA;;not available;
+110;368;1991;805.0;Japan;;not available;
+111;369;1991;627.0;Japan;;not available;
+112;370;1991;448.0;Schweiz;;Therapie;
+113;371;1991;211.0;Italien;;Dozent:in;
+114;372;1991;592.0;Schweiz;;DO;Chemie
+115;373;1991;607.0;Schweiz;;Dozent:in;
+116;374;1991;77.0;Schweiz;;MA;
+117;375;1991;301.0;Schweiz;;ST;Recht
+118;376;1991;143.0;Schweiz;;ST;Biologie
+119;377;1991;718.0;Schweiz;;Künstler:in;
+120;378;1991;426.0;Schweiz;;ST;Biologie
+121;379;1991;583.0;Schweiz;;Chemiker:in;
+122;380;1991;650.0;Schweiz;;MA;Polymere
+123;381;1991;756.0;Schweiz;;Dozent:in;
+124;382;1991;286.0;Schweiz;;ST;Chemie
+125;383;1991;293.0;Schweiz;;ST;Klimatologie
+126;384;1991;402.0;Schweiz;;ST;Umweltnaturwissenschaften
+127;385;1991;102.0;Schweiz;;MA;
+128;386;1991;742.0;Schweiz;;DO;Chemie
+129;387;1991;57.0;Schweiz;;not available;
+130;388;1991;683.0;Schweiz;;not available;
+131;389;1991;777.0;Österreich;;not available;
+132;390;1991;208.0;Österreich;;not available;
+133;391;1991;331.0;Österreich;;Dozent:in;
+134;392;1991;302.0;Schweiz;;Dozent:in;
+135;393;1991;377.0;Deutschland;;Medizin;
+136;394;1991;767.0;Schweiz;;Journalist:in;
+137;395;1991;267.0;Schweiz;;ST;Umweltnaturwissenschaften
+138;396;1991;408.0;Schweden;;Dozent:in;
+0;397;1992;154.0;Schweiz;;MA;
+1;398;1992;602.0;Schweiz;;DO;Informatik
+2;399;1992;542.0;Schweiz;;DO;Biologie
+3;400;1992;246.0;Schweiz;;DO;Biologie
+4;401;1992;91.0;Schweiz;;Künstler:in;
+5;402;1992;571.0;Schweiz;;DO;Chemie
+6;403;1992;527.0;Österreich;;MA;Botanik
+7;404;1992;681.0;Schweiz;;MA;
+8;405;1992;460.0;Schweiz;;DO;Umweltnaturwissenschaften
+9;406;1992;442.0;Schweiz;ETH-Z;MA;
+10;407;1992;586.0;Schweiz;;DO;Geologie
+11;408;1992;456.0;Schweiz;;Künstler:in;
+12;409;1992;136.0;Schweiz;;DO;Chemie
+13;410;1992;434.0;Schweiz;;not available;
+14;411;1992;616.0;Schweiz;;Künstler:in;
+15;412;1992;690.0;Schweiz;;DO;Biopolymere
+16;413;1992;731.0;Schweiz;;DO;Quantenelektronik
+17;414;1992;118.0;Schweiz;;DO;BWI
+18;415;1992;578.0;USA;;Therapie;
+19;416;1992;541.0;Schweiz;;ST;LM.-Ing.
+20;417;1992;163.0;Schweiz;;DO;Medizin
+21;418;1992;645.0;Schweiz;;Chemiker:in;
+22;419;1992;544.0;Schweiz;;not available;
+23;420;1992;104.0;Schweiz;;Chemiker:in;
+24;421;1992;776.0;Italien;;Dozent:in;
+25;422;1992;359.0;Schweiz;;ST;Physik
+26;423;1992;409.0;Schweiz;;Unternehmer:in;
+27;424;1992;427.0;Schweiz;;Dozent:in;
+28;425;1992;561.0;Schweiz;;Architekt:in;
+29;426;1992;137.0;Schweiz;;Lehrer:in;
+30;427;1992;375.0;Schweiz;;DO;Technische Chemie
+31;428;1992;73.0;Schweiz;;DO;Org. Umweltchemie
+32;429;1992;141.0;Schweiz;Uni Basel;DO;
+33;430;1992;502.0;Deutschland;;Künstler:in;
+34;431;1992;545.0;Schweiz;;DO;Lebensmittelchemie
+35;432;1992;269.0;USA;;Dozent:in;
+36;433;1992;70.0;Schweiz;;Medizin;
+37;434;1992;352.0;Schweiz;;not available;
+38;435;1992;360.0;Schweiz;;Office;
+39;436;1992;648.0;Schweiz;;Unternehmer:in;
+40;437;1992;172.0;Schweiz;;DO;Organische Chemie
+41;438;1992;609.0;Schweiz;;DO;Chemie
+42;439;1992;265.0;Schweiz;PSI;MA;
+43;440;1992;266.0;Schweiz;;DO;Terrest. Oekologie
+44;441;1992;449.0;Schweiz;;DO;Technische Chemie
+45;442;1992;663.0;Schweiz;;DO;Lebensmittelwissenschaften
+46;443;1992;413.0;Schweiz;;Künstler:in;
+47;444;1992;149.0;Schweiz;;DO;Biologie
+48;445;1992;90.0;Schweiz;;Chemiker:in;
+49;446;1992;795.0;Schweiz;;Künstler:in;
+50;447;1992;83.0;Schweiz;;DO;Technische Chemie
+51;448;1992;793.0;Schweiz;;DO;Anorg. Chemie
+52;449;1992;138.0;Schweiz;;ST;Chemie
+53;450;1992;803.0;Schweiz;;MA;
+54;451;1992;760.0;Deutschland;;Unternehmer:in;
+55;452;1992;395.0;Schweiz;;Künstler:in;
+56;453;1992;621.0;Deutschland;;DO;Humanmedizin
+57;454;1992;165.0;Schweiz;;Künstler:in;
+58;455;1992;489.0;Schweiz;;MA;Geobotanik
+59;456;1992;423.0;Schweiz;;Chemiker:in;
+60;457;1992;65.0;Schweiz;;Akademisch;
+61;458;1992;367.0;Schweiz;;ST;Physik
+62;459;1992;605.0;Schweiz;;MA;Archäologie
+63;460;1992;564.0;Schweiz;;DO;Polymerchemie
+64;461;1992;652.0;Schweiz;;ST;Umweltnaturwissenschaften
+65;462;1992;224.0;Schweiz;;Akademisch;
+66;463;1992;315.0;Schweiz;;not available;
+67;464;1992;29.0;Schweiz;;Chemiker:in;
+68;465;1992;726.0;Schweiz;;not available;
+69;466;1992;708.0;Schweiz;;MA;
+70;467;1992;200.0;Schweiz;;MA;Mikrobiologie
+71;468;1992;74.0;Deutschland;;not available;
+72;469;1992;340.0;Schweiz;;DO;Biologie
+73;470;1992;249.0;Schweiz;;MA;El. Ing.
+74;471;1992;346.0;Schweiz;;Akademisch;
+75;472;1992;416.0;Schweiz;Kant. Maturitätsschule;Schüler:in;
+76;473;1992;201.0;Schweiz;;Therapie;
+77;474;1992;644.0;Italien;;Künstler:in;
+78;475;1992;211.0;Italien;;not available;
+79;476;1992;607.0;Schweiz;;Dozent:in;
+80;477;1992;342.0;Schweiz;;Akademisch;
+81;478;1992;77.0;Schweiz;;Therapie;
+82;479;1992;462.0;Schweiz;ETH-Z;MA;
+83;480;1992;547.0;Italien;;Dozent:in;
+84;481;1992;722.0;USA;;Akademisch;
+85;482;1992;238.0;Marokko;;Dozent:in;
+86;483;1992;30.0;Schweiz;;DO;Physik
+87;484;1992;672.0;Schweiz;;DO;Umweltchemie
+88;485;1992;676.0;Schweiz;;Office;
+89;486;1992;718.0;Schweiz;;Künstler:in;
+90;487;1992;583.0;Schweiz;;Chemiker:in;
+91;488;1992;212.0;Schweiz;;not available;
+92;489;1992;356.0;Schweiz;;Dozent:in;
+93;490;1992;357.0;USA;;Unternehmer:in;
+94;491;1992;683.0;Schweiz;;not available;
+95;492;1992;777.0;Schweiz;;not available;
+96;493;1992;183.0;Italien;;Künstler:in;
+97;494;1992;789.0;Schweiz;;ST;Musikwissenschaften
+98;495;1992;302.0;Schweiz;;Dozent:in;
+99;496;1992;377.0;Deutschland;;Medizin;
+100;497;1992;451.0;Schweiz;;ST;Phil. I
+101;498;1992;326.0;Deutschland;;Therapie;
+102;499;1992;518.0;Schweiz;ETH-Z;MA;
+103;500;1992;554.0;Schweiz;;ST;Phil. I
+104;501;1992;728.0;Schweiz;;DO;Geotechnik
+105;502;1992;151.0;Schweiz;;Therapie;
+106;503;1992;509.0;Schweiz;;DO;Umweltnaturwissenschaften
+107;504;1992;396.0;Schweiz;;DO;Pharmazie
+108;505;1992;493.0;Schweiz;HSG;DO;
+109;506;1992;66.0;Schweiz;;not available;
+110;507;1992;745.0;Schweiz;;DO;Chemie
+111;508;1992;78.0;Schweiz;EAWAG;MA;
+112;509;1992;351.0;Schweiz;HSG;Akademisch;BWL
+113;510;1992;205.0;Deutschland;;Dozent:in;
+114;511;1992;512.0;Schweiz;;Künstler:in;
+115;512;1992;355.0;Schweiz;;ST;Psychologie
+116;513;1992;103.0;Schweiz;;Therapie;
+117;514;1992;186.0;USA;;not available;
+118;515;1992;539.0;Deutschland;Uni Hamburg;ST;
+119;516;1992;713.0;Schweiz;;not available;
+120;517;1992;197.0;Schweiz;;DO;Elektronik
+121;518;1992;404.0;Schweiz;;DO;EAWAG
+122;519;1992;280.0;Schweiz;;Künstler:in;
+123;520;1992;678.0;Schweiz;;ST;SST
+124;521;1992;132.0;Schweiz;;Dozent:in;
+125;522;1992;485.0;Schweiz;ETH-Z;MA;
+126;523;1992;577.0;Italien;;not available;
+127;524;1992;455.0;Schweiz;;Künstler:in;
+128;525;1992;244.0;Frankreich;;Dozent:in;
+129;526;1992;210.0;Italien;;Office;
+130;527;1992;422.0;Schweiz;;Chemiker:in;
+131;528;1992;770.0;Schweiz;;Na;
+132;529;1992;349.0;Schweiz;;MA;Nat.Fonds Projekt
+133;530;1992;524.0;Schweiz;;ST;Chemie
+134;531;1992;600.0;Schweiz;;Chemiker:in;
+135;532;1992;127.0;Schweiz;;Chemiker:in;
+136;533;1992;166.0;Deutschland;;Therapie;
+137;534;1992;629.0;Schweiz;;DO;Biologie
+138;535;1992;84.0;Schweiz;;DO;Bauingenieur
+139;536;1992;283.0;Schweiz;;ST;Elektronik
+140;537;1992;18.0;Schweiz;;DO;Umweltchemie
+141;538;1992;96.0;Schweiz;;Chemiker:in;
+142;539;1992;646.0;Schweiz;;DO;Chemie
+143;540;1992;701.0;Schweiz;;DO;Planung/Betrieb
+144;541;1992;693.0;Deutschland;;ST;Zahnmedizin
+145;542;1992;80.0;Schweiz;;ST;
+146;543;1992;372.0;Schweiz;;Künstler:in;
+147;544;1992;11.0;Schweiz;;not available;
+148;545;1992;689.0;Schweiz;;Akademisch;
+149;546;1992;308.0;Schweiz;;Medizin;
+0;547;1994;74.0;Deutschland;;Medizin;
+1;548;1994;290.0;Schweiz;;not available;
+2;549;1994;563.0;Schweiz;ETH-Z;Dozent:in;
+3;550;1994;400.0;Schweiz;Kant. Maturitätsschule;ST;
+4;551;1994;201.0;Schweiz;;Therapie;
+5;552;1994;54.0;Schweiz;Universidad México;Dozent:in;
+6;553;1994;307.0;Schweiz;;ST;Geographie
+7;554;1994;530.0;Schweiz;ETH-Z;DO;Analytische Chemie
+8;555;1994;607.0;Schweiz;ETH-Z;Dozent:in;
+9;556;1994;342.0;Schweiz;;not available;
+10;557;1994;77.0;Schweiz;ETH-Z;MA;
+11;558;1994;252.0;Schweiz;;not available;
+12;559;1994;192.0;Schweiz;Uni Bern;Dozent:in;
+13;560;1994;594.0;Schweiz;ETH-Z;Akademisch;
+14;561;1994;618.0;Schweiz;;Künstler:in;
+15;562;1994;547.0;Schweiz;;Therapie;
+16;563;1994;508.0;Schweiz;ETH-Z;DO;Chemie
+17;564;1994;567.0;USA;;not available;
+18;565;1994;314.0;Schweiz;;Medizin;
+19;566;1994;721.0;Schweiz;;ST;Phil I.
+20;567;1994;718.0;Schweiz;;Künstler:in;
+21;568;1994;419.0;Schweiz;ETH-Z;ST;Chemie
+22;569;1994;177.0;Schweiz;ETH-Z;DO;Stoffhaushalt
+23;570;1994;397.0;Schweiz;;not available;
+24;571;1994;756.0;Schweiz;ETH-Z;Dozent:in;
+25;572;1994;458.0;Schweiz;ETH-Z;ST;Abt. Xb
+26;573;1994;758.0;Schweiz;;Künstler:in;
+27;574;1994;356.0;Schweiz;ETH-Z;Dozent:in;
+28;575;1994;777.0;Schweiz;;not available;
+29;576;1994;46.0;Schweiz;Uni Zürich;ST;Phil. 1
+30;577;1994;486.0;Slovenien;;not available;
+31;578;1994;377.0;Deutschland;;Medizin;
+32;579;1994;798.0;Schweiz;HSG;DO;BWL
+33;580;1994;754.0;Italy;;not available;
+34;581;1994;479.0;Schweiz;;Lehrer:in;
+35;582;1994;344.0;Schweiz;C.G. Jung-Institut;Therapie;
+36;583;1994;649.0;Schweiz;ETH-Z;Dozent:in;
+37;584;1994;711.0;Schweiz;;not available;
+38;585;1994;320.0;Schweiz;Uni Zürich;ST;Recht
+39;586;1994;348.0;Schweiz;Uni Bern;ST;Biologie
+40;587;1994;268.0;Schweiz;Uni Bern;DO;Biologie
+41;588;1994;240.0;Italien;;not available;
+42;589;1994;162.0;Schweiz;ETH-Z;MA;Soziologie
+43;590;1994;151.0;Schweiz;;Therapie;
+44;591;1994;228.0;Schweiz;;not available;
+45;592;1994;391.0;Schweiz;;Office;
+46;593;1994;509.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+47;594;1994;396.0;Schweiz;;Office;
+48;595;1994;473.0;Schweiz;ETH-Z;DO;Chemie
+49;596;1994;745.0;Schweiz;ETH-Z;DO;Chemie
+50;597;1994;116.0;Schweiz;ETH-Z;DO;Stoffhaushalt
+51;598;1994;512.0;Schweiz;;Künstler:in;
+52;599;1994;186.0;USA;;not available;
+53;600;1994;358.0;Schweiz;ETH-Z;Dozent:in;
+54;601;1994;382.0;Schweiz;;not available;
+55;602;1994;197.0;Schweiz;;not available;
+56;603;1994;13.0;Schweiz;;not available;
+57;604;1994;454.0;Schweiz;ETH-Z;Akademisch;Betriebswissenschaft
+58;605;1994;132.0;Deutschland;Uni Berlin;Dozent:in;
+59;606;1994;485.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+60;607;1994;534.0;Deutschland;;Künstler:in;
+61;608;1994;780.0;Deutschland;;not available;
+62;609;1994;288.0;Schweiz;HSG;DO;BWL
+63;610;1994;261.0;Schweiz;;not available;
+64;611;1994;769.0;Schweiz;;not available;
+65;612;1994;524.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+66;613;1994;600.0;Schweiz;ETH-Z;Chemiker:in;
+67;614;1994;166.0;Schweiz;;Therapie;
+68;615;1994;629.0;Schweiz;ETH-Z;DO;Biologie
+69;616;1994;283.0;Schweiz;ETH-Z;MA;Elektronik
+70;617;1994;700.0;Schweiz;Uni Bern;ST;Geographie
+71;618;1994;96.0;Schweiz;;Chemiker:in;
+72;619;1994;275.0;Schweiz;Berkeley Universität;Chemiker:in;
+73;620;1994;538.0;USA;;not available;
+74;621;1994;748.0;Schweiz;ETH-Z;DO;Baustatik
+75;622;1994;145.0;Schweiz;Uni Irchel;DO;Ethologie
+76;623;1994;372.0;Schweiz;;Künstler:in;
+77;624;1994;327.0;Schweiz;ETH-Z;DO;Chemie
+78;625;1994;480.0;Schweiz;;Therapie;
+79;626;1994;702.0;Schweiz;;ST;Soziologie
+80;627;1994;62.0;Schweiz;;Medizin;
+81;628;1994;764.0;Schweiz;Kat. Inst. Luzern;ST;
+82;629;1994;460.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+83;630;1994;435.0;Schweiz;ETH-Z;Akademisch;Holzkunde
+84;631;1994;442.0;Schweiz;ETH-Z;Akademisch;Chemischer Ingenieur
+85;632;1994;453.0;Schweiz;;not available;
+86;633;1994;323.0;Schweiz;;MA;
+87;634;1994;117.0;Schweiz;ETH-Z;DO;Bildwissenschaften
+88;635;1994;289.0;Schweiz;HTL;Architekt:in;
+89;636;1994;227.0;Schweiz;;ST;Psych. / Phil. I
+90;637;1994;118.0;Schweiz;ETH-Z;DO;BWI
+91;638;1994;541.0;Schweiz;;ST;Lm.-Ing.
+92;639;1994;749.0;Schweiz;;Workshopleiter:in;
+93;640;1994;161.0;Schweiz;;not available;
+94;641;1994;111.0;Deutschland;;Workshopleiter:in;
+95;642;1994;645.0;Schweiz;;Chemiker:in;
+96;643;1994;704.0;Italien;Univ. Milano;Dozent:in;
+97;644;1994;160.0;Schweiz;;Künstler:in;
+98;645;1994;359.0;Schweiz;Uni Zürich;DO;Betriebswirtschaft
+99;646;1994;128.0;Schweiz;;Therapie;
+100;647;1994;1.0;Schweiz;Uni Zürich;Dozent:in;
+101;648;1994;427.0;Schweiz;ETH-Z;Dozent:in;
+102;649;1994;97.0;Schweiz;C. G. Jung-Institut;ST;
+103;650;1994;137.0;Schweiz;;Lehrer:in;
+104;651;1994;75.0;Schweiz;;Workshopleiter:in;
+105;652;1994;386.0;Schweiz;ETH-Z;MA;Toxikologie
+106;653;1994;375.0;Schweiz;ETH-Z;DO;Technische Chemie
+107;654;1994;113.0;Schweiz;Uni Genf;Dozent:in;
+108;655;1994;81.0;Schweiz;;DO;Pharmazie
+109;656;1994;172.0;Schweiz;ETH-Z;DO;Organische Chemie
+110;657;1994;609.0;Schweiz;ETH-Z;DO;Chemie
+111;658;1994;330.0;Schweiz;;Office;
+112;659;1994;266.0;Schweiz;ETH-Z;Akademisch;Terrestrische Oekologie
+113;660;1994;572.0;Schweiz;;ST;Architektur
+114;661;1994;663.0;Schweiz;;MA;Lebensmittelwissenschaften
+115;662;1994;64.0;Schweiz;;not available;
+116;663;1994;413.0;Schweiz;;Künstler:in;
+117;664;1994;795.0;Schweiz;;Künstler:in;
+118;665;1994;251.0;Schweiz;;Akademisch;
+119;666;1994;793.0;Schweiz;ETH-Z;DO;Anorganische Chemie
+120;667;1994;341.0;Schweiz;;ST;Phil 1.
+121;668;1994;388.0;Schweiz;Uni Bern;MA;Kristallographie
+122;669;1994;88.0;Schweiz;Uni Bern;Dozent:in;
+123;670;1994;310.0;Schweiz;;Office;
+124;671;1994;667.0;Schweiz;EAWAG;DO;
+125;672;1994;659.0;Schweiz;ETH-Z;Dozent:in;
+126;673;1994;669.0;Schweiz;;not available;
+127;674;1994;540.0;Schweiz;Uni Bern;DO;
+128;675;1994;334.0;Schweiz;ETH-Z;ST;Abt. Xb
+129;676;1994;8.0;Schweiz;;Chemiker:in;
+130;677;1994;190.0;Schweiz;EAWAG;MA;
+131;678;1994;423.0;Schweiz;ETH-Z;Dozent:in;
+132;679;1994;625.0;Schweiz;;LE;
+133;680;1994;107.0;Schweiz;ETH-Z;DO;Pflanzenphys.
+134;681;1994;367.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+135;682;1994;36.0;Schweiz;;ST;BWL
+136;683;1994;86.0;Schweiz;ETH-Z;MA;Phys. Chemie
+0;684;1995;661.0;Schweiz;;Unternehmer:in;
+1;685;1995;723.0;Schweiz;;Workshopleiter:in;
+2;686;1995;311.0;Deutschland;Max Planck Institut;MA;
+3;687;1995;418.0;Schweiz;Uni Zürich;Akademisch;
+4;688;1995;658.0;Schweiz;ETH-Z;Dozent:in;NADEL
+5;689;1995;55.0;Italien;;not available;
+6;690;1995;586.0;Schweiz;;MA;Inst. Verhaltensforschung
+7;691;1995;220.0;Schweiz;;DO;Experimentelle Oekologie
+8;692;1995;118.0;Schweiz;ETH-Z;DO;BWI
+9;693;1995;499.0;Schweiz;EAWAG;DO;
+10;694;1995;368.0;Schweiz;EAWAG;DO;
+11;695;1995;354.0;Schweiz;ETH-Z;Dozent:in;
+12;696;1995;622.0;Schweiz;;not available;
+13;697;1995;541.0;Schweiz;;DO;Lebensmittelwissenschaften
+14;698;1995;749.0;Schweiz;;Workshopleiter:in;
+15;699;1995;163.0;Schweiz;;Medizin;
+16;700;1995;645.0;Schweiz;;Chemiker:in;
+17;701;1995;585.0;Schweiz;;Schüler:in;
+18;702;1995;209.0;Schweiz;;DO;Polymere
+19;703;1995;604.0;Schweiz;;not available;
+20;704;1995;148.0;Schweiz;;DO;3 WI
+21;705;1995;802.0;USA;Uni Berlin;Dozent:in;
+22;706;1995;75.0;Schweiz;;Workshopleiter:in;
+23;707;1995;81.0;Schweiz;;not available;
+24;708;1995;69.0;USA;;not available;
+25;709;1995;185.0;USA;;not available;
+26;710;1995;191.0;Schweiz;;Akademisch;
+27;711;1995;175.0;Schweiz;;ST;Soziologie
+28;712;1995;609.0;Schweiz;ETH-Z;DO;Chemie
+29;713;1995;794.0;Schweiz;;DO;Integrierte Optik
+30;714;1995;464.0;Schweiz;;ST;Biologie
+31;715;1995;715.0;Schweiz;Uni Bern;Medizin;
+32;716;1995;413.0;Schweiz;;Künstler:in;
+33;717;1995;641.0;Deutschland;Uni Berlin;ST;Physik
+34;718;1995;795.0;Schweiz;;Künstler:in;
+35;719;1995;292.0;Deutschland;;not available;
+36;720;1995;366.0;USA;;not available;
+37;721;1995;260.0;Schweiz;ETH-Z;ST;Abt. 4
+38;722;1995;27.0;Schweiz;Maschinenbau;ST;Abt.3a
+39;723;1995;165.0;Schweiz;;Künstler:in;
+40;724;1995;667.0;Schweiz;EAWAG;DO;
+41;725;1995;71.0;Schweiz;;Lehrer:in;
+42;726;1995;659.0;Schweiz;ETH-Z;Dozent:in;
+43;727;1995;489.0;Schweiz;;MA;Geobotanik
+44;728;1995;334.0;Schweiz;ETH-Z;ST;Abt. XB
+45;729;1995;8.0;Schweiz;;Chemiker:in;
+46;730;1995;573.0;Schweiz;;DO;Oekobilanz-Bewertung
+47;731;1995;461.0;Schweiz;;ST;
+48;732;1995;260.0;Schweiz;;Akademisch;
+49;733;1995;367.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+50;734;1995;33.0;USA;Harvard Univ.;DO;Philosophie
+51;735;1995;656.0;Deutschland;;Medizin;
+52;736;1995;74.0;Deutschland;;Medizin;
+53;737;1995;563.0;Schweiz;ETH-Z;Dozent:in;
+54;738;1995;416.0;Schweiz;Uni Zürich;ST;Medizin
+55;739;1995;201.0;Schweiz;;Therapie;
+56;740;1995;591.0;Schweiz;ETH-Z;DO;BWI
+57;741;1995;450.0;Schweiz;ETH-Z;MA;Polymere
+58;742;1995;42.0;Schweiz;;ST;Abt. 3d
+59;743;1995;737.0;Deutschland;Universität Leipzig;ST;Physik
+60;744;1995;77.0;Schweiz;;MA;
+61;745;1995;607.0;Schweiz;ETH-Z;Dozent:in;
+62;746;1995;342.0;Schweiz;;not available;
+63;747;1995;371.0;England;;Editor;
+64;748;1995;752.0;Schweiz;;Workshopleiter:in;
+65;749;1995;364.0;Schweiz;;not available;
+66;750;1995;547.0;Schweiz;;Therapie;
+67;751;1995;390.0;Schweiz;;ST;Soziologie
+68;752;1995;144.0;Schweiz;;DO;Technologie Management BW
+69;753;1995;39.0;Schweiz;;ST;Abt. 1
+70;754;1995;216.0;Schweiz;;Künstler:in;
+71;755;1995;718.0;Schweiz;;Künstler:in;
+72;756;1995;335.0;Deutschland;;not available;
+73;757;1995;177.0;Schweiz;ETH-Z;DO;Stoffhaushalt
+74;758;1995;4.0;Schweiz;;Dozent:in;
+75;759;1995;458.0;Schweiz;ETH-Z;ST;Umweltnaturwissenschaften
+76;760;1995;159.0;Schweiz;;ST;
+77;761;1995;324.0;Österreich;Uni Wien;Dozent:in;
+78;762;1995;356.0;Schweiz;ETH-Z;Akademisch;
+79;763;1995;424.0;Schweiz;ETH-Z;Dozent:in;
+80;764;1995;783.0;Schweiz;;not available;
+81;765;1995;46.0;Schweiz;;ST;Phil. I
+82;766;1995;789.0;Schweiz;ETH-Z;Dozent:in;
+83;767;1995;655.0;Schweiz;;MA;
+84;768;1995;507.0;Schweiz;ETH-Z;Dozent:in;
+85;769;1995;377.0;Deutschland;;Medizin;
+86;770;1995;326.0;Deutschland;;Therapie;
+87;771;1995;344.0;Deutschland;;Workshopleiter:in;
+88;772;1995;403.0;Schweiz;;Medizin;
+89;773;1995;96.0;Schweiz;;Chemiker:in;
+90;774;1995;748.0;Schweiz;;DO;Baustatik
+91;775;1995;701.0;Schweiz;;not available;
+92;776;1995;372.0;Schweiz;;Künstler:in;
+93;777;1995;565.0;Deutschland;;Dozent:in;
+94;778;1995;320.0;Schweiz;Uni Fribourg;ST;Recht
+95;779;1995;133.0;Schweiz;;not available;
+96;780;1995;151.0;Schweiz;;Therapie;
+97;781;1995;509.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+98;782;1995;473.0;Schweiz;ETH-Z;DO;Chemie
+99;783;1995;745.0;Schweiz;ETH-Z;DO;Chemie
+100;784;1995;601.0;Schweiz;;Therapie;
+101;785;1995;351.0;Schweiz;;Unternehmer:in;
+102;786;1995;195.0;Schweiz;;not available;
+103;787;1995;109.0;Schweiz;;DO;Oberflächentechnik
+104;788;1995;512.0;Schweiz;;Künstler:in;
+105;789;1995;317.0;Schweiz;;Workshopleiter:in;
+106;790;1995;631.0;Schweiz;;not available;
+107;791;1995;439.0;Belgien;;Dozent:in;
+108;792;1995;526.0;Deutschland;;MA;
+109;793;1995;41.0;Schweiz;HSG;DO;BWL
+110;794;1995;124.0;Schweiz;;Workshopleiter:in;
+111;795;1995;454.0;Schweiz;ETH-Z;Unternehmer:in;
+112;796;1995;184.0;Schweiz;;not available;
+113;797;1995;467.0;Schweiz;;MA;
+114;798;1995;485.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+115;799;1995;781.0;Schweiz;;Medizin;
+116;800;1995;100.0;Schweiz;;not available;
+117;801;1995;161.0;Schweiz;;Medizin;
+118;802;1995;182.0;Schweiz;;not available;
+119;803;1995;600.0;Schweiz;ETH-Z;Chemiker:in;
+120;804;1995;166.0;Deutschland;;Therapie;
+121;805;1995;629.0;Schweiz;ETH-Z;Akademisch;Zellbiologie
+122;806;1995;283.0;Schweiz;;not available;
+0;807;1996;216.0;Schweiz;;Künstler:in;
+1;808;1996;718.0;Schweiz;;Künstler:in;
+2;809;1996;419.0;Schweiz;ETH-Z;ST;Chemie
+3;810;1996;121.0;Schweiz;ETH-Z;DO;TCL
+4;811;1996;4.0;Schweiz;ETH-Z;Dozent:in;
+5;812;1996;58.0;Schweiz;;not available;
+6;813;1996;159.0;Schweiz;ETH-Z;DO;Pharmazie
+7;814;1996;471.0;Schweiz;;not available;
+8;815;1996;46.0;Schweiz;Uni Zürich;ST;Phil. I
+9;816;1996;331.0;Österreich;;Dozent:in;
+10;817;1996;655.0;Schweiz;ETH-Z;MA;Deutsche Sprache
+11;818;1996;377.0;Deutschland;;Medizin;
+12;819;1996;595.0;Deutschland;RWTH Aachen;DO;Informatik
+13;820;1996;596.0;Schweiz;ETH-Z;MA;Energietechnik
+14;821;1996;347.0;Italien;;Workshopleiter:in;
+15;822;1996;326.0;Deutschland;;Therapie;
+16;823;1996;768.0;Schweiz;Uni Zürich;DO;Phil I
+17;824;1996;344.0;Deutschland;C. G. Jung-Institut;Therapie;
+18;825;1996;318.0;Schweiz;Uni Zürich;Journalist:in;
+19;826;1996;649.0;Schweiz;ETH-Z;Dozent:in;
+20;827;1996;597.0;Schweiz;ETH-Z;DO;Energietechnik
+21;828;1996;320.0;Schweiz;Uni Fribourg;ST;Recht
+22;829;1996;407.0;Schweiz;ETH-Z;DO;Verfahrenstechnik
+23;830;1996;6.0;Schweiz;ETH-Z;DO;Elektrotechnik
+24;831;1996;287.0;Schweiz;PSI;DO;
+25;832;1996;509.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+26;833;1996;203.0;Schweiz;Uni Zürich;ST;Theologie
+27;834;1996;799.0;Schweiz;ETH-Z;DO;Pharmazie
+28;835;1996;494.0;Schweiz;ETH-Z;DO;TCL
+29;836;1996;378.0;Schweiz;ETH-Z;DO;Geographie
+30;837;1996;601.0;Schweiz;;Therapie;
+31;838;1996;555.0;Schweiz;ETH-Z;Dozent:in;
+32;839;1996;512.0;Schweiz;;Künstler:in;
+33;840;1996;317.0;Schweiz;;Workshopleiter:in;
+34;841;1996;631.0;Schweiz;;not available;
+35;842;1996;439.0;Belgien;;not available;
+36;843;1996;89.0;Schweiz;Uni Zürich;ST;Soziologie
+37;844;1996;526.0;Deutschland;;Office;
+38;845;1996;258.0;Deutschland;;not available;
+39;846;1996;369.0;Deutschland;;Künstler:in;
+40;847;1996;784.0;Schweiz;;not available;
+41;848;1996;129.0;Österreich;;Künstler:in;
+42;849;1996;485.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+43;850;1996;126.0;Schweiz;ETH-Z;DO;Kulturtechnik
+44;851;1996;411.0;Schweiz;ETH-Z;Dozent:in;
+45;852;1996;152.0;Schweiz;ETH-Z;DO;TCL
+46;853;1996;775.0;England;;not available;
+47;854;1996;600.0;Schweiz;ETH-Z;Chemiker:in;
+48;855;1996;166.0;Deutschland;;Therapie;
+49;856;1996;283.0;Schweiz;;Ingenieur:in;
+50;857;1996;452.0;Schweiz;ETH-Z;DO;TCL
+51;858;1996;800.0;Schweiz;ETH-Z;DO;Kommunikation
+52;859;1996;298.0;Schweiz;Uni Zürich;DO;Psychologie
+53;860;1996;372.0;Schweiz;;Künstler:in;
+54;861;1996;188.0;Schweiz;ETH-Z;DO;
+55;862;1996;60.0;Schweiz;ETH-Z;DO;Nutztierwissenschaften
+56;863;1996;232.0;Deutschland;Uni Karlsruhe;ST;Biologie
+57;864;1996;550.0;Schweiz;Uni Zürich;ST;Religionswissenschaften
+58;865;1996;557.0;Schweiz;;Therapie;
+59;866;1996;733.0;Schweiz;ETH-Z;DO;Kulturingenieur
+60;867;1996;734.0;Schweiz;ETH-Z;DO;Elektrotechnik
+61;868;1996;81.0;Schweiz;;Akademisch;
+62;869;1996;2.0;Schweiz;ETH-Z;DO;TCL
+63;870;1996;204.0;Schweiz;ETH-Z;DO;Oberflächentechnik
+64;871;1996;191.0;Schweiz;ETH-Z;DO;Ernährungsbiologie
+65;872;1996;528.0;Schweiz;ETH-Z;DO;
+66;873;1996;680.0;Schweiz;;ST;Political Science
+67;874;1996;173.0;Schweiz;;ST;HWV
+68;875;1996;207.0;Deutschland;;Medizin;
+69;876;1996;337.0;Österreich;;Architekt:in;
+70;877;1996;469.0;Deutschland;;Workshopleiter:in;
+71;878;1996;794.0;Schweiz;ETH-Z;Physiker:in;
+72;879;1996;9.0;Schweiz;ETH-Z;DO;BWI
+73;880;1996;465.0;Schweiz;Uni Zürich;ST;Japanologie
+74;881;1996;663.0;Schweiz;ETH-Z;MA;
+75;882;1996;174.0;Schweiz;ETH-Z;DO;Lebensmittelwissenschaften
+76;883;1996;413.0;Schweiz;;Künstler:in;
+77;884;1996;468.0;Schweiz;ETH-Z;ST;
+78;885;1996;786.0;Schweiz;;not available;
+79;886;1996;25.0;Schweiz;ETH-Z;DO;
+80;887;1996;795.0;Schweiz;;Künstler:in;
+81;888;1996;292.0;Deutschland;;Workshopleiter:in;
+82;889;1996;414.0;Schweiz;;Medizin;
+83;890;1996;736.0;Schweiz;ETH-Z;DO;Architektur
+84;891;1996;657.0;Schweiz;;not available;
+85;892;1996;181.0;Schweiz;Uni Zürich;DO;
+86;893;1996;642.0;Schweiz;ETH-Z;DO;Pharmazie
+87;894;1996;165.0;Schweiz;;Künstler:in;
+88;895;1996;334.0;Schweiz;ETH-Z;DO;Bodenkunde
+89;896;1996;8.0;Schweiz;;Chemiker:in;
+90;897;1996;551.0;Italien;;Akademisch;
+91;898;1996;694.0;Italien;;not available;
+92;899;1996;3.0;Schweiz;ETH-Z;DO;Biologie
+93;900;1996;549.0;Schweiz;ETH-Z;MA;TCL
+94;901;1996;723.0;Schweiz;;Workshopleiter:in;
+95;902;1996;242.0;USA;;Dozent:in;
+96;903;1996;311.0;Deutschland;Max-Planck-Institut;MA;
+97;904;1996;61.0;Deutschland;;not available;
+98;905;1996;254.0;Indien;;not available;
+99;906;1996;219.0;Schweiz;;Architekt:in;
+100;907;1996;418.0;Schweiz;;Akademisch;
+101;908;1996;658.0;Schweiz;ETH-Z;Dozent:in;NADEL
+102;909;1996;785.0;Schweiz;ETH-Z;DO;Biomechanik
+103;910;1996;247.0;Deutschland;;DO;Philosophie
+104;911;1996;586.0;Schweiz;ETH-Z;MA;Verhaltensforschung
+105;912;1996;587.0;Schweiz;ETH-Z;DO;Pharmazie
+106;913;1996;560.0;Schweiz;ETH-Z;DO;Verkehrsplanung
+107;914;1996;796.0;Schweiz;ETH-Z;DO;Biochemie
+108;915;1996;22.0;Schweiz;ETH-Z;DO;Ökologie
+109;916;1996;63.0;USA;;Entrepeneur:in;
+110;917;1996;497.0;Schweiz;Uni Zürich;Dozent:in;
+111;918;1996;569.0;Italien;;not available;
+112;919;1996;170.0;Schweiz;PSI;MA;
+113;920;1996;142.0;Schweiz;Uni Bern;Dozent:in;
+114;921;1996;255.0;Schweiz;;not available;
+115;922;1996;368.0;Schweiz;EAWAG;DO;Chemie
+116;923;1996;354.0;Schweiz;Uni Zürich;Dozent:in;
+117;924;1996;541.0;Schweiz;ETH-Z;DO;Tierernährung
+118;925;1996;749.0;Schweiz;;Workshopleiter:in;
+119;926;1996;130.0;Schweiz;ETH-Z;DO;Abt. 3b
+120;927;1996;585.0;Belgien;;Schüler:in;
+121;928;1996;420.0;Schweiz;;Biolog:in;
+122;929;1996;361.0;Schweiz;;not available;
+123;930;1996;501.0;Schweiz;ETH-Z;Architekt:in;
+124;931;1996;384.0;Schweiz;Uni Zürich;ST;Theologie
+125;932;1996;209.0;Schweiz;ETH-Z;DO;Polymere
+126;933;1996;427.0;Schweiz;ETH-Z;Dozent:in;
+127;934;1996;148.0;Schweiz;ETH-Z;DO;BWI
+128;935;1996;475.0;Schweiz;Uni Zürich;Akademisch;Romanistik
+129;936;1996;461.0;Schweiz;;Akademisch;
+130;937;1996;65.0;Schweiz;;Akademisch;
+131;938;1996;367.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+132;939;1996;15.0;Schweiz;ETH-Z;DO;Festkörperphysik
+133;940;1996;707.0;Schweiz;ETH-Z;MA;Mechanik
+134;941;1996;176.0;Schweiz;ETH-Z;DO;Informatik
+135;942;1996;505.0;Schweiz;ETH-Z;DO;Biochemie
+136;943;1996;660.0;Schweiz;ETH-Z;Chemiker:in;
+137;944;1996;48.0;Deutschland;Uni München;DO;Philosophie
+138;945;1996;74.0;Schweiz;;Medizin;
+139;946;1996;490.0;Schweiz;ETH-Z;DO;Mathematik
+140;947;1996;35.0;Schweiz;ETH-Z;DO;Pharmazie
+141;948;1996;612.0;Schweiz;;ST;HWV
+142;949;1996;389.0;Schweiz;;not available;
+143;950;1996;201.0;Schweiz;;Therapie;
+144;951;1996;591.0;Schweiz;ETH-Z;DO;BWL
+145;952;1996;34.0;USA;Caltech;Dozent:in;
+146;953;1996;385.0;Schweiz;ETH-Z;DO;Verhaltensbiologie
+147;954;1996;762.0;Schweiz;Uni Zürich;DO;Mikrobiologie
+148;955;1996;77.0;Schweiz;ETH-Z;Office;
+149;956;1996;607.0;Schweiz;ETH-Z;Dozent:in;
+150;957;1996;151.0;Schweiz;;Therapie;
+151;958;1996;752.0;Schweiz;;Workshopleiter:in;
+152;959;1996;703.0;Italien;Uni Rom;DO;Physik
+153;960;1996;594.0;Schweiz;ETH-Z;DO;Kulturingenieur
+154;961;1996;739.0;England;;not available;
+155;962;1996;547.0;Schweiz;;Akademisch;
+156;963;1996;679.0;Schweiz;ETH-Z;DO;Polymere
+157;964;1996;671.0;Schweiz;ETH-Z;ST;Abt. XB
+158;965;1996;741.0;Schweiz;ETH-Z;DO;Geophysik
+159;966;1996;390.0;Schweiz;Uni Zürich;ST;Soziologie
+160;967;1996;39.0;Schweiz;ETH-Z;ST;Abt. I
+161;968;1996;686.0;Schweiz;ETH-Z;DO;Bodenkunde
+0;969;1997;3.0;Schweiz;ETH-Z;DO;Biologie
+1;970;1997;549.0;Schweiz;ETH-Z;Chemiker:in;
+2;971;1997;723.0;Schweiz;;Workshopleiter:in;
+3;972;1997;193.0;Schweiz;ETH-Z;ST;Abt. 8
+4;973;1997;38.0;Schweiz;ETH-Z;DO;Organische Chemie
+5;974;1997;608.0;Italien;;not available;
+6;975;1997;785.0;Schweiz;ETH-Z;DO;Biomechanik
+7;976;1997;552.0;Schweiz;ETH-Z;DO;Polymere
+8;977;1997;206.0;Schweiz;Max-Planck-Institut;DO;Kohleforschung
+9;978;1997;587.0;Schweiz;ETH-Z;DO;Pharmazie
+10;979;1997;560.0;Schweiz;ETH-Z;DO;Verkehrsplanung
+11;980;1997;169.0;Schweiz;ETH-Z;DO;Neuroinformatik
+12;981;1997;498.0;Schweiz;ETH-Z;DO;Physik
+13;982;1997;632.0;Schweiz;;Therapie;
+14;983;1997;372.0;Schweiz;;Künstler:in;
+15;984;1997;368.0;Schweiz;EAWAG;DO;Chemie
+16;985;1997;354.0;Schweiz;ETH-Z;Akademisch;
+17;986;1997;370.0;USA;;not available;
+18;987;1997;541.0;Schweiz;ETH-Z;DO;Tierernährung
+19;988;1997;130.0;Schweiz;ETH-Z;DO;Kommunikationsnetze
+20;989;1997;282.0;Schweiz;;Rechtsanwältin;
+21;990;1997;466.0;Schweiz;ETH-Z;ST;Umweltingenieurwesen
+22;991;1997;666.0;Schweiz;ETH-Z;ST;
+23;992;1997;463.0;Schweiz;ETH-Z;ST;Abt. 6
+24;993;1997;475.0;Schweiz;Uni Zürich;Akademisch;
+25;994;1997;733.0;Schweiz;ETH-Z;Akademisch;
+26;995;1997;69.0;USA;;not available;
+27;996;1997;185.0;USA;;not available;
+28;997;1997;394.0;Deutschland;;not available;
+29;998;1997;343.0;Österreich;Uni Wien;ST;Mathematik
+30;999;1997;406.0;Österreich;;not available;
+31;1000;1997;647.0;Österreich;;Workshopleiter:in;
+32;1001;1997;765.0;Schweiz;;Workshopleiter:in;
+33;1002;1997;528.0;Schweiz;ETH-Z;DO;Umweltmanagment
+34;1003;1997;680.0;Schweiz;Uni Zürich;ST;Recht
+35;1004;1997;691.0;Schweiz;ETH-Z;ST;Umweltingenieurwesen
+36;1005;1997;794.0;Schweiz;ETH-Z;MA;Quantenphysik
+37;1006;1997;428.0;Deutschland;;not available;
+38;1007;1997;9.0;Schweiz;ETH-Z;DO;BWI
+39;1008;1997;706.0;Schweiz;;not available;
+40;1009;1997;180.0;Schweiz;;DO;Bauingenieurwesen
+41;1010;1997;44.0;Schweiz;Uni Zürich;ST;Psychologie
+42;1011;1997;328.0;Schweiz;Uni Zürich;MA;Weiterbildung
+43;1012;1997;413.0;Schweiz;;Künstler:in;
+44;1013;1997;514.0;Schweiz;;Akademisch;
+45;1014;1997;387.0;Schweiz;ETH-Z;Dozent:in;
+46;1015;1997;795.0;Schweiz;;Künstler:in;
+47;1016;1997;119.0;Schweiz;ETH-Z;ST;
+48;1017;1997;295.0;Schweiz;Uni Zürich;DO;Soziologie
+49;1018;1997;47.0;USA;;not available;
+50;1019;1997;736.0;Schweiz;ETH-Z;DO;Architektur
+51;1020;1997;181.0;Schweiz;Uni Zürich;DO;Psychologie
+52;1021;1997;312.0;Deutschland;Uni München;MA;
+53;1022;1997;720.0;Schweiz;Uni Zürich;ST;Germanistik
+54;1023;1997;668.0;Schweiz;EAWAG;DO;
+55;1024;1997;520.0;Schweiz;ETH-Z;DO;Elektronik
+56;1025;1997;8.0;Schweiz;;Chemiker:in;
+57;1026;1997;551.0;Italien;;ST;Communications Science
+58;1027;1997;457.0;Schweiz;ETH-Z;ST;Abt. 3B
+59;1028;1997;694.0;Italien;Uni Rom;DO;
+60;1029;1997;367.0;Schweiz;ETH-Z;DO;Umweltnaturwissenschaften
+61;1030;1997;766.0;Schweiz;;not available;
+62;1031;1997;277.0;Schweiz;ETH-Z;DO;Technische Chemie
+63;1032;1997;558.0;Schweiz;ETH-Z;DO;
+64;1033;1997;495.0;Schweiz;Uni Zürich;MA;
+65;1034;1997;99.0;Schweiz;;Therapie;
+66;1035;1997;345.0;Schweiz;ETH-Z;MA;LAC
+67;1036;1997;707.0;Schweiz;ETH-Z;Dozent:in;Mechanik
+68;1037;1997;670.0;Schweiz;ETH-Z;DO;Angewandte Entomologie
+69;1038;1997;504.0;Schweiz;ETH-Z;DO;Biochemie
+70;1039;1997;74.0;Deutschland;;Medizin;
+71;1040;1997;35.0;Schweiz;ETH-Z;DO;Pharmazie
+72;1041;1997;438.0;Schweiz;;not available;
+73;1042;1997;574.0;Schweiz;ETH-Z;DO;Biologie
+74;1043;1997;201.0;Schweiz;;Therapie;
+75;1044;1997;92.0;Schweiz;;Medizin;
+76;1045;1997;521.0;Schweiz;Uni Zürich;DO;Zoologie
+77;1046;1997;77.0;Schweiz;ETH-Z;Office;
+78;1047;1997;607.0;Schweiz;ETH-Z;Office;
+79;1048;1997;151.0;Schweiz;;Therapie;
+80;1049;1997;603.0;Schweiz;ETH-Z;DO;Chemie
+81;1050;1997;738.0;Schweiz;Uni St. Gallen;DO;
+82;1051;1997;752.0;Schweiz;;Workshopleiter:in;
+83;1052;1997;547.0;Schweiz;;Akademisch;
+84;1053;1997;120.0;Schweiz;Uni Zürich;ST;Geschichte/Phil.
+85;1054;1997;39.0;Schweiz;ETH-Z;ST;Abt. 1
+86;1055;1997;575.0;Schweiz;ETH-Z;DO;Mathematik
+87;1056;1997;582.0;Schweiz;ETH-Z;ST;
+88;1057;1997;216.0;Schweiz;;Künstler:in;
+89;1058;1997;718.0;Schweiz;;Künstler:in;
+90;1059;1997;121.0;Schweiz;ETH-Z;DO;Technische Chemie
+91;1060;1997;380.0;Schweiz;;not available;
+92;1061;1997;4.0;Schweiz;ETH-Z;Akademisch;
+93;1062;1997;58.0;Schweiz;;not available;
+94;1063;1997;628.0;Schweiz;ETH-Z;Akademisch;Chemie
+95;1064;1997;677.0;Schweiz;;not available;
+96;1065;1997;471.0;Schweiz;;not available;
+97;1066;1997;743.0;Schweiz;ETH-Z;ST;Biologie
+98;1067;1997;313.0;Schweiz;ETH-Z;DO;Angewandte Entomologie
+99;1068;1997;556.0;Schweiz;Uni St. Gallen;DO;
+100;1069;1997;716.0;Schweiz;ETH-Z;DO;Kulturtechnik
+101;1070;1997;654.0;Schweiz;ETH-Z;MA;Deutsche Sprache
+102;1071;1997;483.0;Schweiz;;not available;
+103;1072;1997;377.0;Deutschland;;Medizin;
+104;1073;1997;595.0;Deutschland;RWTH;DO;Informatik
+105;1074;1997;347.0;Schweiz;;Workshopleiter:in;
+106;1075;1997;326.0;Deutschland;;Therapie;
+107;1076;1997;768.0;Schweiz;Uni Zürich;DO;Phil I
+108;1077;1997;318.0;Schweiz;;Akademisch;
+109;1078;1997;649.0;Schweiz;ETH-Z;Akademisch;
+110;1079;1997;403.0;Schweiz;;Medizin;
+111;1080;1997;320.0;Schweiz;Uni Fribourg;ST;Recht
+112;1081;1997;492.0;Schweiz;ETH-Z;DO;Physik
+113;1082;1997;150.0;Schweiz;ETH-Z;DO;Abt. 3B
+114;1083;1997;316.0;Schweiz;Uni Zürich;Akademisch;IEW
+115;1084;1997;584.0;Schweiz;ETH-Z;MA;
+116;1085;1997;67.0;Schweiz;;not available;
+117;1086;1997;619.0;Deutschland;ETH-Z;DO;Astrophysik
+118;1087;1997;531.0;Schweiz;ETH-Z;DO;Bildwissenschaft
+119;1088;1997;494.0;Schweiz;ETH-Z;DO;Technische Chemie
+120;1089;1997;365.0;Schweiz;Uni Zürich;MA;Oekonomische Geographie
+121;1090;1997;378.0;Schweiz;ETH-Z;DO;Geographie
+122;1091;1997;179.0;Schweiz;ETH-Z;ST;Umweltingenieurwesen
+123;1092;1997;695.0;Schweiz;;Therapie;
+124;1093;1997;317.0;Schweiz;;Workshopleiter:in;
+125;1094;1997;631.0;Schweiz;;not available;
+126;1095;1997;620.0;Schweiz;ETH-Z;DO;Physik
+127;1096;1997;89.0;Schweiz;Uni Zürich;ST;Soziologie
+128;1097;1997;532.0;Schweiz;;Office;
+129;1098;1997;51.0;Schweiz;;Lehrer:in;
+130;1099;1997;533.0;Schweiz;Uni Bern;Medizin;
+131;1100;1997;415.0;Deutschland;;Künstler:in;
+132;1101;1997;280.0;Schweiz;;Künstler:in;
+133;1102;1997;132.0;Deutschland;Uni Berlin;Dozent:in;
+134;1103;1997;79.0;Schweiz;Uni Zürich;ST;Pädagogik
+135;1104;1997;373.0;Schweiz;ETH-Z;not available;
+136;1105;1997;710.0;Schweiz;ETH-Z;DO;Physik
+137;1106;1997;411.0;Schweiz;ETH-Z;Akademisch;Geologie
+138;1107;1997;600.0;Schweiz;ETH-Z;Chemiker:in;
+139;1108;1997;166.0;Deutschland;;Therapie;
+140;1109;1997;237.0;Schweiz;ETH-Z;ST;Abt. 6
+141;1110;1997;516.0;UK;University of Edinbrugh;ST;
+142;1111;1997;275.0;USA;;Chemiker:in;
+143;1112;1997;32.0;Schweiz;;Akademisch;Musikwissenschaften
+144;1113;1997;167.0;Schweiz;Uni Bern;DO;Französische Literatur
+145;1114;1997;452.0;Schweiz;ETH-Z;DO;Technische Chemie
+146;1115;1997;755.0;Schweiz;;not available;
+147;1116;1997;156.0;Schweiz;ETH-Z;DO;Technische Chemie
+148;1117;1997;459.0;Schweiz;ETH-Z;MA;Statistik
+149;1118;1997;405.0;Schweiz;Uni Zürich;DO;Biologie
+150;1119;1997;472.0;Schweiz;Collegium Helveticum;MA;
+151;1120;1997;12.0;Schweiz;EAWAG;Dozent:in;
+152;1121;1997;525.0;Schweiz;ETH-Z;DO;Polymere
+0;1122;1998;3.0;Schweiz;;not available;
+1;1123;1998;374.0;Schweiz;;not available;
+2;1124;1998;723.0;Schweiz;;not available;
+3;1125;1998;85.0;Schweiz;;not available;
+4;1126;1998;682.0;Deutschland;;not available;
+5;1127;1998;425.0;Schweiz;;not available;
+6;1128;1998;309.0;Schweiz;;not available;
+7;1129;1998;418.0;Schweiz;;not available;
+8;1130;1998;658.0;Schweiz;;not available;
+9;1131;1998;785.0;Schweiz;;not available;
+10;1132;1998;586.0;Schweiz;;not available;
+11;1133;1998;587.0;Schweiz;;not available;
+12;1134;1998;169.0;Schweiz;;not available;
+13;1135;1998;487.0;Schweiz;;not available;
+14;1136;1998;110.0;Schweiz;;not available;
+15;1137;1998;284.0;Schweiz;;not available;
+16;1138;1998;362.0;Schweiz;;not available;
+17;1139;1998;651.0;Schweiz;;not available;
+18;1140;1998;354.0;Schweiz;;not available;
+19;1141;1998;264.0;USA;;not available;
+20;1142;1998;749.0;Schweiz;;not available;
+21;1143;1998;130.0;Schweiz;;not available;
+22;1144;1998;226.0;Schweiz;;not available;
+23;1145;1998;666.0;Schweiz;;not available;
+24;1146;1998;95.0;Schweiz;;not available;
+25;1147;1998;475.0;Schweiz;;not available;
+26;1148;1998;733.0;Schweiz;;not available;
+27;1149;1998;447.0;Schweiz;;not available;
+28;1150;1998;637.0;Schweiz;;not available;
+29;1151;1998;69.0;USA;;not available;
+30;1152;1998;185.0;USA;;not available;
+31;1153;1998;381.0;Schweiz;;not available;
+32;1154;1998;412.0;Schweiz;;not available;
+33;1155;1998;14.0;Schweiz;;not available;
+34;1156;1998;610.0;USA;;not available;
+35;1157;1998;278.0;Schweiz;;not available;
+36;1158;1998;640.0;Schweiz;;not available;
+37;1159;1998;794.0;Deutschland;;not available;
+38;1160;1998;24.0;Schweiz;;not available;
+39;1161;1998;413.0;Schweiz;;not available;
+40;1162;1998;274.0;USA;;not available;
+41;1163;1998;634.0;Spanien;;not available;
+42;1164;1998;795.0;Schweiz;;not available;
+43;1165;1998;26.0;Schweiz;;not available;
+44;1166;1998;414.0;Deutschland;;not available;
+45;1167;1998;329.0;Deutschland;;not available;
+46;1168;1998;759.0;Schweiz;;not available;
+47;1169;1998;657.0;Schweiz;;not available;
+48;1170;1998;576.0;Deutschland;;not available;
+49;1171;1998;181.0;Schweiz;;not available;
+50;1172;1998;164.0;Schweiz;;not available;
+51;1173;1998;410.0;Deutschland;;not available;
+52;1174;1998;520.0;Schweiz;;not available;
+53;1175;1998;590.0;Schweiz;;not available;
+54;1176;1998;774.0;Schweiz;;not available;
+55;1177;1998;787.0;Schweiz;;not available;
+56;1178;1998;190.0;Schweiz;;not available;
+57;1179;1998;551.0;Italien;;not available;
+58;1180;1998;457.0;Schweiz;;not available;
+59;1181;1998;801.0;Schweiz;;not available;
+60;1182;1998;65.0;Schweiz;;not available;
+61;1183;1998;17.0;Schweiz;;not available;
+62;1184;1998;285.0;Schweiz;;not available;
+63;1185;1998;761.0;Schweiz;;not available;
+64;1186;1998;558.0;Schweiz;;not available;
+65;1187;1998;496.0;Schweiz;;not available;
+66;1188;1998;504.0;Schweiz;;not available;
+67;1189;1998;660.0;Schweiz;;not available;
+68;1190;1998;35.0;Schweiz;;not available;
+69;1191;1998;201.0;Schweiz;;not available;
+70;1192;1998;92.0;Schweiz;;not available;
+71;1193;1998;692.0;Schweiz;;not available;
+72;1194;1998;607.0;Schweiz;;not available;
+73;1195;1998;151.0;Schweiz;;not available;
+74;1196;1998;603.0;Schweiz;;not available;
+75;1197;1998;696.0;Indien;;not available;
+76;1198;1998;752.0;Schweiz;;not available;
+77;1199;1998;444.0;USA;;not available;
+78;1200;1998;594.0;Schweiz;;not available;
+79;1201;1998;547.0;Schweiz;;not available;
+80;1202;1998;120.0;Schweiz;;not available;
+81;1203;1998;253.0;Schweiz;;not available;
+82;1204;1998;673.0;Schweiz;;not available;
+83;1205;1998;623.0;Österreich;;not available;
+84;1206;1998;718.0;Schweiz;;not available;
+85;1207;1998;121.0;Schweiz;;not available;
+86;1208;1998;756.0;Schweiz;;not available;
+87;1209;1998;4.0;Schweiz;;not available;
+88;1210;1998;58.0;Schweiz;;not available;
+89;1211;1998;471.0;Schweiz;;not available;
+90;1212;1998;202.0;Deutschland;;not available;
+91;1213;1998;559.0;Schweiz;;not available;
+92;1214;1998;40.0;Schweiz;;not available;
+93;1215;1998;705.0;Schweiz;;not available;
+94;1216;1998;654.0;Schweiz;;not available;
+95;1217;1998;377.0;Deutschland;;not available;
+96;1218;1998;250.0;Schweiz;;not available;
+97;1219;1998;750.0;Schweiz;;not available;
+98;1220;1998;347.0;Italien;;not available;
+99;1221;1998;338.0;Deutschland;;not available;
+100;1222;1998;479.0;Schweiz;;not available;
+101;1223;1998;344.0;Deutschland;;not available;
+102;1224;1998;318.0;Schweiz;;not available;
+103;1225;1998;649.0;Schweiz;;not available;
+104;1226;1998;403.0;Schweiz;;not available;
+105;1227;1998;320.0;Schweiz;;not available;
+106;1228;1998;150.0;Schweiz;;not available;
+107;1229;1998;391.0;Schweiz;;not available;
+108;1230;1998;194.0;Deutschland;;not available;
+109;1231;1998;270.0;Schweiz;;not available;
+110;1232;1998;67.0;Schweiz;;not available;
+111;1233;1998;43.0;Schweiz;;not available;
+112;1234;1998;515.0;Schweiz;;not available;
+113;1235;1998;664.0;Schweiz;;not available;
+114;1236;1998;580.0;Schweiz;;not available;
+115;1237;1998;158.0;Schweiz;;not available;
+116;1238;1998;259.0;Deutschland;;not available;
+117;1239;1998;633.0;Indien;;not available;
+118;1240;1998;638.0;Schweiz;;not available;
+119;1241;1998;317.0;Schweiz;;not available;
+120;1242;1998;631.0;Schweiz;;not available;
+121;1243;1998;217.0;Schweiz;;not available;
+122;1244;1998;532.0;USA;;not available;
+123;1245;1998;526.0;Deutschland;;not available;
+124;1246;1998;553.0;Schweiz;;not available;
+125;1247;1998;513.0;Schweiz;;not available;
+126;1248;1998;415.0;Deutschland;;not available;
+127;1249;1998;353.0;Schweiz;;not available;
+128;1250;1998;753.0;USA;;not available;
+129;1251;1998;522.0;Deutschland;;not available;
+130;1252;1998;31.0;Schweiz;;not available;
+131;1253;1998;523.0;Schweiz;;not available;
+132;1254;1998;411.0;Schweiz;;not available;
+133;1255;1998;56.0;Schweiz;;not available;
+134;1256;1998;166.0;Deutschland;;not available;
+135;1257;1998;96.0;Schweiz;;not available;
+136;1258;1998;275.0;USA;;not available;
+137;1259;1998;441.0;Schweiz;;not available;
+138;1260;1998;52.0;Schweiz;;not available;
+139;1261;1998;156.0;Schweiz;;not available;
+140;1262;1998;562.0;Schweiz;;not available;
+141;1263;1998;248.0;Schweiz;;not available;
+142;1264;1998;717.0;Schweiz;;not available;
+143;1265;1998;727.0;Schweiz;;not available;

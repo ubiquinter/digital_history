@@ -1,0 +1,346 @@
+workshop_id,workshop_name,event_id,category_id,category_name
+20,Halluzinogene und veränderte Zustände des Bewusstseins,1,1,Bewusstseinserweiterung
+20,Halluzinogene und veränderte Zustände des Bewusstseins,1,2,das Unbewusste
+21,Die Beziehung zwischen Körper und Seele,1,1,Bewusstseinserweiterung
+21,Die Beziehung zwischen Körper und Seele,1,2,das Unbewusste
+27,Homöopathische Medizin Heute,1,3,Hochpotenzforschung
+27,Homöopathische Medizin Heute,1,4,Homöopathie
+33,Science Beyond Foundations,1,5,lebende Systeme
+33,Science Beyond Foundations,1,6,Autopoese
+33,Science Beyond Foundations,1,7,Dialektik
+33,Science Beyond Foundations,1,8,Kybernetik
+36,Body workshop Gonseth,1,9,das Innen
+36,Body workshop Gonseth,1,10,Erkenntnismethode
+36,Body workshop Gonseth,1,11,Focusing
+36,Body workshop Gonseth,1,12,Gruppenarbeit
+100,Body work Scheidegger,1,13,körperorientiert
+100,Body work Scheidegger,1,14,Selbstfindung
+101,Body work Müller,1,13,körperorientiert
+101,Body work Müller,1,15,Einheit von Körper und Seele
+102,Body work Walterspiel,1,13,körperorientiert
+102,Body work Walterspiel,1,15,Einheit von Körper und Seele
+102,Body work Walterspiel,1,16,KI
+11,The Structure of Thought in Western and Eastern Civilizations: The decline of Science in India as a case Study,1,17,Wissensystem
+11,The Structure of Thought in Western and Eastern Civilizations: The decline of Science in India as a case Study,1,18,Vergleich Osten und Westen
+11,The Structure of Thought in Western and Eastern Civilizations: The decline of Science in India as a case Study,1,19,Indien
+11,The Structure of Thought in Western and Eastern Civilizations: The decline of Science in India as a case Study,1,85,Wissenschaftstheorie
+12,Fragmentation and Wholeness,1,21,Fragmentierung
+12,Fragmentation and Wholeness,1,22,Ganzheit
+12,Fragmentation and Wholeness,1,23,Wissenschaft
+13,The Re-Enchantment of the World,1,20,Re-Echantment/Überwindung einer mechanistischen Weltbilds
+14,"Politics, Economy and Science",1,23,Wissenschaft
+14,"Politics, Economy and Science",1,29,Politik
+14,"Politics, Economy and Science",1,30,Ökonomie
+15,Fragmentation and Wholeness in Science and Society,1,21,Fragmentierung
+15,Fragmentation and Wholeness in Science and Society,1,22,Ganzheit
+15,Fragmentation and Wholeness in Science and Society,1,23,Wissenschaft
+17,"Wissenschaft, Religion, Meditation",1,23,Wissenschaft
+17,"Wissenschaft, Religion, Meditation",1,24,Religion/Kult
+17,"Wissenschaft, Religion, Meditation",1,25,Meditation
+17,"Wissenschaft, Religion, Meditation",1,26,Vereinigung von Wissenschaft und Religion
+17,"Wissenschaft, Religion, Meditation",1,27,Theologie ohne Dogmen
+17,"Wissenschaft, Religion, Meditation",1,28,Erkenntnis aus Erfahrung
+18,Visuelle Gestaltung als Erfahrung,1,31,Kunst
+18,Visuelle Gestaltung als Erfahrung,1,28,Erkenntnis aus Erfahrung
+19,Wie erleben Künstler die Wisenschaftler,1,42,Vereinigung von Kunst und Wissenschaft
+22,Alternative Healing Processes,1,32,Alternative Heilung
+22,Alternative Healing Processes,1,33,Geistheilung
+22,Alternative Healing Processes,1,46,Westliche Mystik
+23,New Realms of Music,1,28,Erkenntnis aus Erfahrung
+23,New Realms of Music,1,34,Musik
+23,New Realms of Music,1,17,Wissensystem
+24,Energetic View of Personalityand Behaviour,1,36,Bioenergetics
+24,Energetic View of Personalityand Behaviour,1,35,Lebensenergie
+24,Energetic View of Personalityand Behaviour,1,43,Selbstoptimierung
+24,Energetic View of Personalityand Behaviour,1,13,körperorientiert
+25,Reading the Language of the Body,1,13,körperorientiert
+25,Reading the Language of the Body,1,35,Lebensenergie
+25,Reading the Language of the Body,1,36,Bioenergetics
+25,Reading the Language of the Body,1,43,Selbstoptimierung
+26,Observer and Observed in Science,1,23,Wissenschaft
+26,Observer and Observed in Science,1,37,Subjekt-Objekt-Beziehung
+28,Science and Religion,1,23,Wissenschaft
+28,Science and Religion,1,24,Religion/Kult
+28,Science and Religion,1,26,Vereinigung von Wissenschaft und Religion
+29,Verschiedenen Arten Geistiger Heilweise,1,33,Geistheilung
+29,Verschiedenen Arten Geistiger Heilweise,1,32,Alternative Heilung
+29,Verschiedenen Arten Geistiger Heilweise,1,43,Selbstoptimierung
+29,Verschiedenen Arten Geistiger Heilweise,1,41,Inspiration durch den Osten
+29,Verschiedenen Arten Geistiger Heilweise,1,28,Erkenntnis aus Erfahrung
+30,Freies Malen im Raum zwischen Rationalität und Utopie,1,31,Kunst
+31,Myth and Science: Animism and the Narratives of Gaia,1,44,Mythen und Wissenschaft
+31,Myth and Science: Animism and the Narratives of Gaia,1,45,Gaia
+31,Myth and Science: Animism and the Narratives of Gaia,1,47,Animismus
+32,Myth and Modern Science,1,44,Mythen und Wissenschaft
+33,Science Beyond Foundations,1,23,Wissenschaft
+35,Textcollage,1,31,Kunst
+35,Textcollage,1,43,Selbstoptimierung
+37,Wholeness and Diversity and the Ecology of mind,2,48,Mind
+37,Wholeness and Diversity and the Ecology of mind,2,49,Diversität
+37,Wholeness and Diversity and the Ecology of mind,2,50,Ökologie
+38,"Einbezug von ökologischen, technischen und humanistischen Aspekten in die langfristige Planung der Industrie",2,51,Ethik
+38,"Einbezug von ökologischen, technischen und humanistischen Aspekten in die langfristige Planung der Industrie",2,52,Wirtschaft
+38,"Einbezug von ökologischen, technischen und humanistischen Aspekten in die langfristige Planung der Industrie",2,53,Planung
+38,"Einbezug von ökologischen, technischen und humanistischen Aspekten in die langfristige Planung der Industrie",2,54,Interdisziplinarität
+38,"Einbezug von ökologischen, technischen und humanistischen Aspekten in die langfristige Planung der Industrie",2,55,problemorientiert
+38,"Einbezug von ökologischen, technischen und humanistischen Aspekten in die langfristige Planung der Industrie",2,22,Ganzheit
+39,Wissenschaft/Wirtschaft/Ethik,2,51,Ethik
+39,Wissenschaft/Wirtschaft/Ethik,2,52,Wirtschaft
+39,Wissenschaft/Wirtschaft/Ethik,2,54,Interdisziplinarität
+39,Wissenschaft/Wirtschaft/Ethik,2,55,problemorientiert
+39,Wissenschaft/Wirtschaft/Ethik,2,22,Ganzheit
+40,Lebendig leben- aber wie?,2,43,Selbstoptimierung
+41,Spannung zwischen Berufs- und Privatleben,2,43,Selbstoptimierung
+42,"Wissenschaft und christliche Kosmologie, ein Gegensatz?",2,46,Westliche Mystik
+42,"Wissenschaft und christliche Kosmologie, ein Gegensatz?",2,26,Vereinigung von Wissenschaft und Religion
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,10,Erkenntnismethode
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,37,Subjekt-Objekt-Beziehung
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,46,Westliche Mystik
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,17,Wissensystem
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,28,Erkenntnis aus Erfahrung
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,55,problemorientiert
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,25,Meditation
+43,Meister Eckhart und die Ueberwindung der Subjekt/Objekt-Spaltung,2,14,Selbstfindung
+44,Body workshop Gonseth 2,2,11,Focusing
+44,Body workshop Gonseth 2,2,10,Erkenntnismethode
+44,Body workshop Gonseth 2,2,9,das Innen
+44,Body workshop Gonseth 2,2,13,körperorientiert
+36,Body workshop Gonseth,1,13,körperorientiert
+103,Body work Scheidegger 2,2,13,körperorientiert
+103,Body work Scheidegger 2,2,14,Selbstfindung
+103,Body work Scheidegger 2,2,22,Ganzheit
+103,Body work Scheidegger 2,2,43,Selbstoptimierung
+104,Body work Müller 2,2,13,körperorientiert
+104,Body work Müller 2,2,15,Einheit von Körper und Seele
+104,Body work Müller 2,2,36,Bioenergetics
+104,Body work Müller 2,2,43,Selbstoptimierung
+101,Body work Müller,1,43,Selbstoptimierung
+101,Body work Müller,1,36,Bioenergetics
+105,Body work Walterspiel 2,2,16,KI
+105,Body work Walterspiel 2,2,41,Inspiration durch den Osten
+105,Body work Walterspiel 2,2,13,körperorientiert
+105,Body work Walterspiel 2,2,35,Lebensenergie
+105,Body work Walterspiel 2,2,15,Einheit von Körper und Seele
+102,Body work Walterspiel,1,41,Inspiration durch den Osten
+102,Body work Walterspiel,1,35,Lebensenergie
+45,A Neurobiologist's View of the Scientist's Mind,2,23,Wissenschaft
+45,A Neurobiologist's View of the Scientist's Mind,2,48,Mind
+46,Wissenschaftliche und ethische Probleme in der Molekularbiologie und Gentechnologie,2,56,Gentechnologie
+46,Wissenschaftliche und ethische Probleme in der Molekularbiologie und Gentechnologie,2,51,Ethik
+46,Wissenschaftliche und ethische Probleme in der Molekularbiologie und Gentechnologie,2,23,Wissenschaft
+47,Sinnesorgane und Perzeptionsfelder des Menschen ,2,57,Sinneserfahrung/Wahrnehmung
+47,Sinnesorgane und Perzeptionsfelder des Menschen ,2,28,Erkenntnis aus Erfahrung
+47,Sinnesorgane und Perzeptionsfelder des Menschen ,2,58,Zahlenverhältnise
+47,Sinnesorgane und Perzeptionsfelder des Menschen ,2,13,körperorientiert
+48,Theaterimprovisation,2,59,Theater
+48,Theaterimprovisation,2,60,Improvisation
+49,Masken - Gestalten,2,14,Selbstfindung
+49,Masken - Gestalten,2,59,Theater
+49,Masken - Gestalten,2,31,Kunst
+49,Masken - Gestalten,2,61,Einnehmen anderer Rollen
+48,Theaterimprovisation,2,61,Einnehmen anderer Rollen
+48,Theaterimprovisation,2,62,Spielen
+50,Stein-Holz-Eisen,2,63,Zurück zur Natur
+50,Stein-Holz-Eisen,2,64,Gemeinschaft
+50,Stein-Holz-Eisen,2,31,Kunst
+51,Musik-Improvisation,2,65,Kommunikation
+51,Musik-Improvisation,2,60,Improvisation
+51,Musik-Improvisation,2,34,Musik
+51,Musik-Improvisation,2,13,körperorientiert
+51,Musik-Improvisation,2,14,Selbstfindung
+51,Musik-Improvisation,2,28,Erkenntnis aus Erfahrung
+52,Collagen,2,66,Lokale Verbindung
+52,Collagen,2,31,Kunst
+53,Zen-Meditation,2,25,Meditation
+53,Zen-Meditation,2,39,Buddhismus
+53,Zen-Meditation,2,41,Inspiration durch den Osten
+106,Spannung zwischen Beruf- und Privatleben 2,2,67,Gesellschaftliche Zwänge
+106,Spannung zwischen Beruf- und Privatleben 2,2,68,Spannung 
+106,Spannung zwischen Beruf- und Privatleben 2,2,62,Spielen
+106,Spannung zwischen Beruf- und Privatleben 2,2,69,Mannheimian Unmasking
+54,The Samkhya View of Science,2,23,Wissenschaft
+54,The Samkhya View of Science,2,19,Indien
+54,The Samkhya View of Science,2,17,Wissensystem
+54,The Samkhya View of Science,2,15,Einheit von Körper und Seele
+54,The Samkhya View of Science,2,22,Ganzheit
+54,The Samkhya View of Science,2,70,Philosophie
+55,Gegensätze und Harmonien in der Modernen Architektur,2,71,Architektur
+55,Gegensätze und Harmonien in der Modernen Architektur,2,72,Materielle Manifestation von Metaphysik
+55,Gegensätze und Harmonien in der Modernen Architektur,2,73,Kosmische Integration
+56,The coevolution of global interconnectedness and education,2,76,Bildung
+56,The coevolution of global interconnectedness and education,2,75,Computer Technologie
+56,The coevolution of global interconnectedness and education,2,74,Computer-Netzwerk
+57,Das Sender/Empfänger Konzept der Wirklichkeit,2,70,Philosophie
+57,Das Sender/Empfänger Konzept der Wirklichkeit,2,77,Konstruktivismus
+57,Das Sender/Empfänger Konzept der Wirklichkeit,2,55,problemorientiert
+57,Das Sender/Empfänger Konzept der Wirklichkeit,2,78,Wirklichkeit
+58,Psychologische Grundlagen der Alchemie,2,80,Tiefenpsychologie
+58,Psychologische Grundlagen der Alchemie,2,28,Erkenntnis aus Erfahrung
+58,Psychologische Grundlagen der Alchemie,2,79,Alchemie
+58,Psychologische Grundlagen der Alchemie,2,20,Re-Echantment/Überwindung einer mechanistischen Weltbilds
+58,Psychologische Grundlagen der Alchemie,2,15,Einheit von Körper und Seele
+59,Glauben in Wissenschaft und Religion,2,23,Wissenschaft
+59,Glauben in Wissenschaft und Religion,2,24,Religion/Kult
+59,Glauben in Wissenschaft und Religion,2,28,Erkenntnis aus Erfahrung
+59,Glauben in Wissenschaft und Religion,2,27,Theologie ohne Dogmen
+59,Glauben in Wissenschaft und Religion,2,81,Aufklärung
+59,Glauben in Wissenschaft und Religion,2,17,Wissensystem
+60,Die Gegensätze Erotik/Religion und Frau/Spiritualität,2,24,Religion/Kult
+60,Die Gegensätze Erotik/Religion und Frau/Spiritualität,2,82,Sexualität
+60,Die Gegensätze Erotik/Religion und Frau/Spiritualität,2,83,Feminismus
+60,Die Gegensätze Erotik/Religion und Frau/Spiritualität,2,26,Vereinigung von Wissenschaft und Religion
+60,Die Gegensätze Erotik/Religion und Frau/Spiritualität,2,38,Interreligiöser Dialog
+61,Astronomische Forschung und ihre Entwicklung,2,23,Wissenschaft
+61,Astronomische Forschung und ihre Entwicklung,2,84,Astronomie
+62,Kunst und Erziehung - Erfahrungen im Bereich des Malens,2,76,Bildung
+62,Kunst und Erziehung - Erfahrungen im Bereich des Malens,2,31,Kunst
+62,Kunst und Erziehung - Erfahrungen im Bereich des Malens,2,28,Erkenntnis aus Erfahrung
+16,The Re-Imagination of the world and the transformation of Science,2,20,Re-Echantment/Überwindung einer mechanistischen Weltbilds
+16,The Re-Imagination of the world and the transformation of Science,2,85,Wissenschaftstheorie
+63,Gemeinsame Wandmalerei,2,31,Kunst
+63,Gemeinsame Wandmalerei,2,64,Gemeinschaft
+64,Gedächtnis und Antizipation,3,23,Wissenschaft
+64,Gedächtnis und Antizipation,3,86,Gedächtnis
+64,Gedächtnis und Antizipation,3,87,Engramm
+64,Gedächtnis und Antizipation,3,88,Schaltkreise
+65,Das Problem der Realität in der Physik,3,85,Wissenschaftstheorie
+65,Das Problem der Realität in der Physik,3,78,Wirklichkeit
+65,Das Problem der Realität in der Physik,3,77,Konstruktivismus
+65,Das Problem der Realität in der Physik,3,70,Philosophie
+65,Das Problem der Realität in der Physik,3,37,Subjekt-Objekt-Beziehung
+65,Das Problem der Realität in der Physik,3,89,Zwei-Kulturen-Krise
+66,Aesthetik des Lebendigen,3,90,Aesthetik
+66,Aesthetik des Lebendigen,3,89,Zwei-Kulturen-Krise
+66,Aesthetik des Lebendigen,3,91,Gestalthöhe
+66,Aesthetik des Lebendigen,3,92,Biologisierung
+66,Aesthetik des Lebendigen,3,5,lebende Systeme
+66,Aesthetik des Lebendigen,3,14,Selbstfindung
+66,Aesthetik des Lebendigen,3,20,Re-Echantment/Überwindung einer mechanistischen Weltbilds
+67,Wahrnehmung in Zen-Buddhismus,3,39,Buddhismus
+67,Wahrnehmung in Zen-Buddhismus,3,57,Sinneserfahrung/Wahrnehmung
+67,Wahrnehmung in Zen-Buddhismus,3,41,Inspiration durch den Osten
+68,Olfaktorische Wahrnehmung,3,23,Wissenschaft
+68,Olfaktorische Wahrnehmung,3,57,Sinneserfahrung/Wahrnehmung
+68,Olfaktorische Wahrnehmung,3,26,Vereinigung von Wissenschaft und Religion
+69,Wie wirklich ist die Wirklichkeit,3,93,Epistemologie
+69,Wie wirklich ist die Wirklichkeit,3,78,Wirklichkeit
+69,Wie wirklich ist die Wirklichkeit,3,77,Konstruktivismus
+70,Kindliche Wahrnehmung - dialogische Wahrnehmung,3,57,Sinneserfahrung/Wahrnehmung
+70,Kindliche Wahrnehmung - dialogische Wahrnehmung,3,94,Kindheit/Jugend
+70,Kindliche Wahrnehmung - dialogische Wahrnehmung,3,95,Entwicklung
+70,Kindliche Wahrnehmung - dialogische Wahrnehmung,3,22,Ganzheit
+70,Kindliche Wahrnehmung - dialogische Wahrnehmung,3,96,Lernen vom Kind
+71,Das Pendel als Hilsmittel zur Wahrnehmung,3,1,Bewusstseinserweiterung
+71,Das Pendel als Hilsmittel zur Wahrnehmung,3,57,Sinneserfahrung/Wahrnehmung
+71,Das Pendel als Hilsmittel zur Wahrnehmung,3,9,das Innen
+71,Das Pendel als Hilsmittel zur Wahrnehmung,3,97,Technik des Selbst
+72,Overtone Music. Theory and Praxis,3,43,Selbstoptimierung
+72,Overtone Music. Theory and Praxis,3,14,Selbstfindung
+72,Overtone Music. Theory and Praxis,3,97,Technik des Selbst
+72,Overtone Music. Theory and Praxis,3,34,Musik
+72,Overtone Music. Theory and Praxis,3,98,Bewusstsein
+107,Interspecies Communication,3,99,Tiere
+107,Interspecies Communication,3,65,Kommunikation
+107,Interspecies Communication,3,34,Musik
+107,Interspecies Communication,3,20,Re-Echantment/Überwindung einer mechanistischen Weltbilds
+107,Interspecies Communication,3,42,Vereinigung von Kunst und Wissenschaft
+73,Colour and Vision,3,57,Sinneserfahrung/Wahrnehmung
+75,Tai-ci-Quan,3,41,Inspiration durch den Osten
+75,Tai-ci-Quan,3,97,Technik des Selbst
+75,Tai-ci-Quan,3,13,körperorientiert
+76,Perception of future economy and ethics,3,52,Wirtschaft
+76,Perception of future economy and ethics,3,51,Ethik
+77,Aktive Sinnerswahrnehmung,3,57,Sinneserfahrung/Wahrnehmung
+77,Aktive Sinnerswahrnehmung,3,28,Erkenntnis aus Erfahrung
+77,Aktive Sinnerswahrnehmung,3,65,Kommunikation
+77,Aktive Sinnerswahrnehmung,3,50,Ökologie
+78,Hypnosetherapie,3,1,Bewusstseinserweiterung
+78,Hypnosetherapie,3,2,das Unbewusste
+78,Hypnosetherapie,3,9,das Innen
+78,Hypnosetherapie,3,14,Selbstfindung
+78,Hypnosetherapie,3,43,Selbstoptimierung
+78,Hypnosetherapie,3,97,Technik des Selbst
+78,Hypnosetherapie,3,12,Gruppenarbeit
+78,Hypnosetherapie,3,28,Erkenntnis aus Erfahrung
+79,Bauform als Zeichen und Symbol ,3,71,Architektur
+79,Bauform als Zeichen und Symbol ,3,41,Inspiration durch den Osten
+79,Bauform als Zeichen und Symbol ,3,28,Erkenntnis aus Erfahrung
+79,Bauform als Zeichen und Symbol ,3,24,Religion/Kult
+80,Stein-Holz-Eisen,3,24,Religion/Kult
+80,Stein-Holz-Eisen,3,31,Kunst
+80,Stein-Holz-Eisen,3,28,Erkenntnis aus Erfahrung
+80,Stein-Holz-Eisen,3,63,Zurück zur Natur
+80,Stein-Holz-Eisen,3,12,Gruppenarbeit
+81,Musikimprovisation,3,34,Musik
+81,Musikimprovisation,3,60,Improvisation
+81,Musikimprovisation,3,28,Erkenntnis aus Erfahrung
+82,Der komponierende und improvisierende Computer,3,75,Computer Technologie
+82,Der komponierende und improvisierende Computer,3,60,Improvisation
+82,Der komponierende und improvisierende Computer,3,34,Musik
+82,Der komponierende und improvisierende Computer,3,16,KI
+83,Die Schöpfung als menschlicher Ort,3,100,Vereinigung von Kunst und Religion/Ritual
+83,Die Schöpfung als menschlicher Ort,3,24,Religion/Kult
+83,Die Schöpfung als menschlicher Ort,3,28,Erkenntnis aus Erfahrung
+83,Die Schöpfung als menschlicher Ort,3,43,Selbstoptimierung
+84,Wahrnehmung des Selbst in der Alchemie,3,2,das Unbewusste
+84,Wahrnehmung des Selbst in der Alchemie,3,14,Selbstfindung
+84,Wahrnehmung des Selbst in der Alchemie,3,15,Einheit von Körper und Seele
+84,Wahrnehmung des Selbst in der Alchemie,3,22,Ganzheit
+84,Wahrnehmung des Selbst in der Alchemie,3,97,Technik des Selbst
+84,Wahrnehmung des Selbst in der Alchemie,3,43,Selbstoptimierung
+84,Wahrnehmung des Selbst in der Alchemie,3,28,Erkenntnis aus Erfahrung
+84,Wahrnehmung des Selbst in der Alchemie,3,101,Alchemie
+85,"Wahrnehmung im Alltag - Liebe, Beruf, Erziehung",3,10,Erkenntnismethode
+85,"Wahrnehmung im Alltag - Liebe, Beruf, Erziehung",3,57,Sinneserfahrung/Wahrnehmung
+85,"Wahrnehmung im Alltag - Liebe, Beruf, Erziehung",3,50,Ökologie
+85,"Wahrnehmung im Alltag - Liebe, Beruf, Erziehung",3,17,Wissensystem
+85,"Wahrnehmung im Alltag - Liebe, Beruf, Erziehung",3,20,Re-Echantment/Überwindung einer mechanistischen Weltbilds
+85,"Wahrnehmung im Alltag - Liebe, Beruf, Erziehung",3,55,problemorientiert
+86,"Gebrauch,Gefahren und Erfahrungen mit psychedelischen Drogen",3,1,Bewusstseinserweiterung
+86,"Gebrauch,Gefahren und Erfahrungen mit psychedelischen Drogen",3,102,Drogen
+20,Halluzinogene und veränderte Zustände des Bewusstseins,1,102,Drogen
+87,Wahrnehmung in der Tibetischen Tradition,3,57,Sinneserfahrung/Wahrnehmung
+87,Wahrnehmung in der Tibetischen Tradition,3,25,Meditation
+87,Wahrnehmung in der Tibetischen Tradition,3,18,Vergleich Osten und Westen
+87,Wahrnehmung in der Tibetischen Tradition,3,41,Inspiration durch den Osten
+87,Wahrnehmung in der Tibetischen Tradition,3,19,Indien
+87,Wahrnehmung in der Tibetischen Tradition,3,70,Philosophie
+88,Weiterbildung in Körpertherapie,3,24,Religion/Kult
+88,Weiterbildung in Körpertherapie,3,38,Interreligiöser Dialog
+88,Weiterbildung in Körpertherapie,3,83,Feminismus
+88,Weiterbildung in Körpertherapie,3,103,Jung
+88,Weiterbildung in Körpertherapie,3,69,Mannheimian Unmasking
+88,Weiterbildung in Körpertherapie,3,14,Selbstfindung
+88,Weiterbildung in Körpertherapie,3,13,körperorientiert
+89,Ki-kraft,3,41,Inspiration durch den Osten
+89,Ki-kraft,3,13,körperorientiert
+89,Ki-kraft,3,15,Einheit von Körper und Seele
+89,Ki-kraft,3,22,Ganzheit
+89,Ki-kraft,3,43,Selbstoptimierung
+89,Ki-kraft,3,97,Technik des Selbst
+89,Ki-kraft,3,35,Lebensenergie
+89,Ki-kraft,3,16,KI
+90,Bioenergetics,3,36,Bioenergetics
+90,Bioenergetics,3,13,körperorientiert
+90,Bioenergetics,3,15,Einheit von Körper und Seele
+90,Bioenergetics,3,97,Technik des Selbst
+90,Bioenergetics,3,43,Selbstoptimierung
+90,Bioenergetics,3,63,Zurück zur Natur
+91,"Bioenergetics, Arbeit mit Träumen",3,104,Träume
+91,"Bioenergetics, Arbeit mit Träumen",3,13,körperorientiert
+91,"Bioenergetics, Arbeit mit Träumen",3,2,das Unbewusste
+91,"Bioenergetics, Arbeit mit Träumen",3,97,Technik des Selbst
+91,"Bioenergetics, Arbeit mit Träumen",3,12,Gruppenarbeit
+91,"Bioenergetics, Arbeit mit Träumen",3,36,Bioenergetics
+92,Focusing,3,15,Einheit von Körper und Seele
+92,Focusing,3,22,Ganzheit
+92,Focusing,3,57,Sinneserfahrung/Wahrnehmung
+92,Focusing,3,13,körperorientiert
+92,Focusing,3,105,Umweltschutz
+92,Focusing,3,63,Zurück zur Natur
+92,Focusing,3,11,Focusing
+93,"Perception of the Bodyform, Postural Integration and Rolfing",3,13,körperorientiert
+93,"Perception of the Bodyform, Postural Integration and Rolfing",3,15,Einheit von Körper und Seele
+93,"Perception of the Bodyform, Postural Integration and Rolfing",3,23,Wissenschaft
+93,"Perception of the Bodyform, Postural Integration and Rolfing",3,97,Technik des Selbst
+93,"Perception of the Bodyform, Postural Integration and Rolfing",3,57,Sinneserfahrung/Wahrnehmung
