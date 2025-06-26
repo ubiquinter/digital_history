@@ -7,71 +7,71 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 6,Fritjof Capra,m,1939,person,yes,no,2
 7,Thornton E. Chamberlin,m,1949,person,yes,no,2
 8,Richard Robert Ernst,m,1933,person,yes,no,2
-9,Jörg Felsche,,,person,yes,no,2
-10,Gerd Folkers,,,person,yes,no,2
-11,Pieter Arend Folken,,,person,yes,no,2
-12,Gerd Fuchs,,,person,yes,no,2
+9,Jörg Felsche,m,,person,yes,no,2
+10,Gerd Folkers,m,,person,yes,no,2
+11,Pieter Arend Folken,m,,person,yes,no,2
+12,Gerd Fuchs,m,,person,yes,no,2
 13,Kathrin Graf,w,1942,person,yes,no,2
-14,George Greenstein,,,person,yes,no,2
-15,Ricardo Guerrero,,,person,yes,no,2
+14,George Greenstein,m,,person,yes,no,2
+15,Ricardo Guerrero,m,,person,yes,no,2
 16,Willi Gutmann,m,1927,person,yes,no,2
-17,Urs Hartmann,,,person,yes,no,2
+17,Urs Hartmann,m,,person,yes,no,2
 18,Doris Lässer-Aeppli,w,1945,person,yes,no,2
 19,Claudia Scheidegger,w,1950,person,yes,no,2
 20,Tony Majdalani,m,,person,yes,no,2
 21,Lynn Margulis,w,1938,person,yes,no,2
 22,Monika Matta,w,,person,yes,no,2
-23,Regina Mikula,,,person,yes,no,2
+23,Regina Mikula,w,,person,yes,no,2
 24,Suzanne Monard,w,1934,person,yes,no,2
 25,Roberto A. A. Boschi,m,1941,person,yes,no,2
-26,Doris Oltrogge,,,person,yes,no,2
+26,Doris Oltrogge,w,,person,yes,no,2
 27,Jörg Rasche,m,1950,person,yes,no,2
-28,Irene Reintjens,,,person,yes,no,2
-29,Hortense Reintjens-Anwari,,,person,yes,no,2
+28,Irene Reintjens,w,,person,yes,no,2
+29,Hortense Reintjens-Anwari,w,,person,yes,no,2
 30,Ingrid Riedel,w,1935,person,yes,no,2
-31,Paul Seiler,,,person,yes,no,2
-32,Renuka Singh,,,person,yes,no,2
+31,Paul Seiler,m,,person,yes,no,2
+32,Renuka Singh,w,,person,yes,no,2
 33,David Bohm,m,1917,person,yes,no,2
 34,David Steindl-Rast,m,1926,person,yes,no,2
-35,Michael Stillwater,,,person,yes,no,2
-36,KatjaTchemberdji,,,person,yes,no,2
-37,Weiming Tu,,,person,yes,no,2
-38,Katharina von Salis,,,person,yes,no,2
+35,Michael Stillwater,m,,person,yes,no,2
+36,KatjaTchemberdji,w,,person,yes,no,2
+37,Weiming Tu,m,,person,yes,no,2
+38,Katharina von Salis,w,,person,yes,no,2
 39,Cornelia Walterspiel,w,,person,yes,no,2
-40,f,,,person,yes,no,2
-41,Reinhard Nesper,,,person,yes,no,2
-42,Marlen Karlen,,,person,yes,no,2
-43,Luciano Pietronero,,,person,yes,no,2
-44,Rupert Sheldrake,,,person,yes,no,2
-45,Ernst Peter Fischer,,,person,yes,no,2
-46,Christina Puchalski,,,person,yes,no,2
+40,George Weissmann,m,,person,yes,no,2
+41,Reinhard Nesper,m,,person,yes,no,2
+42,Marlen Karlen,w,,person,yes,no,2
+43,Luciano Pietronero,m,,person,yes,no,2
+44,Rupert Sheldrake,m,,person,yes,no,2
+45,Ernst Peter Fischer,m,,person,yes,no,2
+46,Christina Puchalski,w,,person,yes,no,2
 47,Joan Halifax,w,1942,person,yes,no,2
-48,Michael Hagner,,,person,yes,no,2
-49,Hans-Peter Sibler,,,person,yes,no,2
+48,Michael Hagner,m,,person,yes,no,2
+49,Hans-Peter Sibler,m,,person,yes,no,2
 50,John Wolf Brennan,m,1954,person,yes,no,2
 51,Vanja Palmers,m,1948,person,yes,no,2
-52,Barbara Jäckli,,,person,yes,no,2
-53,Andreas Schneider,,,person,yes,no,2
-54,Regula Vollenweider Wepfer,,,person,yes,no,2
-55,Avshalom Elitzur,,,person,yes,no,2
-56,Beate Kortendieck-Rasche,,,person,yes,no,2
-57,Marie Millis,,,person,yes,no,2
+52,Barbara Jäckli,w,,person,yes,no,2
+53,Andreas Schneider,m,,person,yes,no,2
+54,Regula Vollenweider Wepfer,w,,person,yes,no,2
+55,Avshalom Elitzur,m,,person,yes,no,2
+56,Beate Kortendieck-Rasche,w,,person,yes,no,2
+57,Marie Millis,w,,person,yes,no,2
 58,HeidiMaria Stauber,w,1949,person,yes,no,2
-59,Eveline Hauser,,,person,yes,no,2
-60,Horta van Hoye,,,person,yes,no,2
+59,Eveline Hauser,w,,person,yes,no,2
+60,Horta van Hoye,w,,person,yes,no,2
 61,Chaturvedi Badrinath,m,1933,person,yes,no,2
-62,Helmut Milz,,,person,yes,no,2
-63,Monica Zuretti,,,person,yes,no,2
-64,Fredi Rauner,,,person,yes,no,2
-65,Franziska Dürr,,,person,yes,no,2
-66,Kurt Reinhard,,,person,yes,no,2
-67,Michel Bitbol,,,person,yes,no,2
-68,Annie Bitbol-Hespériès,,,person,yes,no,2
-69,Richi Diener,,,person,yes,no,2
-70,Daniel Fueter,,,person,yes,no,2
-71,Thomas Müllenbach,,,person,yes,no,2
+62,Helmut Milz,m,,person,yes,no,2
+63,Monica Zuretti,w,,person,yes,no,2
+64,Fredi Rauner,m,,person,yes,no,2
+65,Franziska Dürr,w,,person,yes,no,2
+66,Kurt Reinhard,m,,person,yes,no,2
+67,Michel Bitbol,m,,person,yes,no,2
+68,Annie Bitbol-Hespériès,w,,person,yes,no,2
+69,Richi Diener,m,,person,yes,no,2
+70,Daniel Fueter,m,,person,yes,no,2
+71,Thomas Müllenbach,m,,person,yes,no,2
 72,Herbert Pietschmann,m,1936,person,yes,no,2
-73,Naomi Steinberg,,,person,yes,no,2
+73,Naomi Steinberg,w,,person,yes,no,2
 74,Hazel Henderson,w,1933,person,yes,no,2
 75,Tom Johanson,m,1925,person,yes,no,2
 76,Alexander Lowen,m,1910,person,yes,no,2
@@ -91,7 +91,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 90,Pit Gutmann,m,1954,person,yes,no,2
 91,Marie-Luce Gonseth,w,,person,yes,no,2
 92,Jörg Müller,m,,person,yes,no,2
-93,Eduard Freitag,,,person,yes,no,2
+93,Eduard Freitag,m,,person,yes,no,2
 94,Roland Ris,m,1939,person,yes,no,2
 95,Christian Thomas,m,1948,person,yes,no,2
 96,Hans Primas,m,1928,person,yes,no,2
@@ -102,7 +102,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 101,Thomas Matus,m,1940,person,yes,no,2
 102,Leonor Varela,w,1947,person,yes,no,2
 103,Hans Weber,m,1937,person,yes,no,2
-104,D. Fölsch,,,person,yes,no,2
+104,D. Fölsch,m,,person,yes,no,2
 105,Otto Schärli,m,1930,person,yes,no,2
 106,Martin Henglein,m,1953,person,yes,no,2
 107,Ursula Zwahlen,w,,person,yes,no,2
@@ -111,19 +111,19 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 110,Lizelle Reymond,w,1899,person,yes,no,2
 111,Elisabeth Blum,w,1952,person,yes,no,2
 112,Bernhard Strecker,m,1940,person,yes,no,2
-113,Ernest Rosenberg,,,person,yes,no,2
-114,Peter Bumbacher,,,person,yes,no,2
-115,Peter Binz,,,person,yes,no,2
-116,C. Eugster,,,person,yes,no,2
-117,R. Frei,,,person,yes,no,2
+113,Ernest Rosenberg,m,,person,yes,no,2
+114,Peter Bumbacher,m,,person,yes,no,2
+115,Peter Binz,m,,person,yes,no,2
+116,C. Eugster,m,,person,yes,no,2
+117,R. Frei,m,,person,yes,no,2
 118,Eva Wertenschlag,w,1950,person,yes,no,2
 119,Guy Poupart,m,,person,yes,no,2
-120,G. Goerges,,,person,yes,no,2
+120,G. Goerges,m,,person,yes,no,2
 121,Gina Schibler,w,1956,person,yes,no,2
 122,Jan Olof Stenflo,m,1942,person,yes,no,2
 123,Branco Weiss,m,1929,person,yes,no,2
-124,W. Mahler,,,person,yes,no,2
-125,Alfons Schilling,,,person,yes,no,2
+124,W. Mahler,m,,person,yes,no,2
+125,Alfons Schilling,m,,person,yes,no,2
 126,Tonino Zellweger,m,1942,person,yes,no,2
 127,Bruno Spoerri,m,1935,person,yes,no,2
 128,Nold Egenter,m,1938,person,yes,no,2
@@ -134,31 +134,31 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 133,Samy Frenk,m,1934,person,yes,no,2
 134,Noemi Frenk,w,,person,yes,no,2
 135,Shneior Lifson,m,1914,person,yes,no,2
-136,Lekshe Gyatso,,,person,yes,no,2
-137,Riccardo Pierantoni,,,person,yes,no,2
-138,Hsiao,,,person,yes,no,2
+136,Lekshe Gyatso,m,,person,yes,no,2
+137,Riccardo Pierantoni,m,,person,yes,no,2
+138,Hsiao,m,,person,yes,no,2
 139,Karl Bättig,m,1926,person,yes,no,2
 140,Peter Sitte,m,1929,person,yes,no,2
 141,Peter Schudel,m,1928,person,yes,no,2
 142,Paul Watzlawick,m,1921,person,yes,no,2
 143,Heinz Herzka,m,1935,person,yes,no,2
-144,Al Huang,,,person,yes,no,2
-145,Antonio Greco,,,person,yes,no,2
+144,Al Huang,m,,person,yes,no,2
+145,Antonio Greco,m,,person,yes,no,2
 146,Jim Nollman,m,1947,person,yes,no,2
 147,Humberto Maturana,m,1928,person,yes,no,2
-148,Hanna Lifson,,,person,yes,no,2
+148,Hanna Lifson,w,,person,yes,no,2
 149,Yohikazu Ikeda,m,,person,yes,no,2
 150,Paul W. Müller,m,1929,person,yes,no,2
 151,Michael J. Denton,m,1943,person,yes,no,2
-152,Elisabeth Stern,,,person,yes,no,2
+152,Elisabeth Stern,w,,person,yes,no,2
 153,Theo Ginsburg,m,1926,person,yes,no,2
-154,Diana Hornung,,,person,yes,no,2
+154,Diana Hornung,w,,person,yes,no,2
 155,Sonja Buholzer,w,1960,person,yes,no,2
 156,Martin C. E. Huber,m,1936,person,yes,no,2
 157,Hans Christoph Binswanger,m,1929,person,yes,no,2
-158,Peter Walde,,,person,yes,no,2
+158,Peter Walde,m,,person,yes,no,2
 159,Cecily Corti,w,1940,person,yes,no,2
-160,Andalo Carrega,,,person,yes,no,2
+160,Andalo Carrega,m,,person,yes,no,2
 161,Katya Walter,w,1941,person,yes,no,2
 162,Helga Boedecker,w,,person,yes,no,2
 163,Michel Joly,m,,person,yes,no,2
@@ -166,13 +166,13 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 165,Christiane Thurn,w,1943,person,yes,no,2
 166,Philip Howard,m,1933,person,yes,no,2
 167,Joan Davis,w,1937,person,yes,no,2
-168,Walter Petter,,,person,yes,no,2
-169,Marianne Heide,,,person,yes,no,2
-170,Beatrice Lüthi,,,person,yes,no,2
+168,Walter Petter,m,,person,yes,no,2
+169,Marianne Heide,w,,person,yes,no,2
+170,Beatrice Lüthi,w,,person,yes,no,2
 171,Masaki Nakajima,m,,person,yes,no,2
-172,Anthony Adams,,,person,yes,no,2
-173,Pascale Bachmann,,,person,yes,no,2
-174,Esther Schreier,,,person,yes,no,2
+172,Anthony Adams,m,,person,yes,no,2
+173,Pascale Bachmann,m,,person,yes,no,2
+174,Esther Schreier,w,,person,yes,no,2
 175,Karl-Henrik Robert,m,1947,person,yes,no,2
 176,Theodor Abt,m,1947,person,yes,no,2
 177,Paul Carter,m,,person,yes,no,2
@@ -204,97 +204,96 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 203,Ernst Friedrich Schumacher,m,1911,person,no,no,2
 204,Gregory Bateson,m,,person,no,no,2
 205,Heinz von Foerster,m,1911,person,no,no,2
-206,Ramon Margalef,,,person,no,no,2
-207,Gordon Pask,,,person,no,no,2
-208,Alan Kay,,,person,no,no,2
-209,Terry Winograd,,,person,no,no,2
-210,Steve Baer,,,person,no,no,2
-211,Stewart Brand,,,person,no,no,2
-212,Robert Edgar,,,person,no,no,2
-213,Carol Proudfoot,,,person,no,no,2
+206,Ramon Margalef,m,,person,no,no,2
+207,Gordon Pask,m,,person,no,no,2
+208,Alan Kay,m,,person,no,no,2
+209,Terry Winograd,m,,person,no,no,2
+210,Steve Baer,m,,person,no,no,2
+211,Stewart Brand,m,,person,no,no,2
+212,Robert Edgar,m,,person,no,no,2
+213,Carol Proudfoot,w,,person,no,no,2
 214,Wolfang Dahlberg,m,1955,person,no,no,2
 215,Michael von Brück,m,1949,person,no,no,2
 216,Eileen Caddy,w,1917,person,no,no,2
 217,Brita Dahlberg,w,,person,no,no,2
 218,Hans Endres,m,1911,person,no,no,2
-219,Karl-Heinz Gottmann,,,person,no,no,2
-220,Peter Michael Hamel,,,person,no,no,2
-221,Inge Hölscher,,,person,no,no,2
-222,Pir Vilayat Inayat Khan,,,person,no,no,2
-223,Hazrath Inayat Khan,,,person,no,no,2
-224,Friedrich Kroeger,,,person,no,no,2
-225,Rabbi Zalman Schachter,,,person,no,no,2
-226,Siegfried Scharf,,,person,no,no,2
-227,Susanne Schaup,,,person,no,no,2
-228,Huston Smith,,,person,no,no,2
-229,Sun Bear,,,person,no,no,2
-230,Hans Torwesten,,,person,no,no,2
-231,Irina Tweedie,,,person,no,no,2
-232,Dalai Lama,,,person,no,no,2
-233,Joachim E. Berendt,,,person,no,no,2
-234,Gopi Krishna,,,person,no,no,2
-235,Robert Baker Aitken,,,person,no,no,2
-236,James Lovelock,,,person,no,no,2
-237,Henri Atlan,,,person,no,no,2
-238,John Todd,,,person,no,no,2
-239,Evan Thompson,,,person,no,no,2
-240,Arthur Zajonc,,,person,no,no,2
-241,Wes Jackson,,,person,no,no,2
-242,Nancy Jack Todd,,,person,no,no,2
-243,Susan Oyama,,,person,no,no,2
-244,Mauro Ceruti,,,person,no,no,2
-245,Gianluca Bocchi,,,person,no,no,2
-246,Newcomb Greenleaf,,,person,no,no,2
-247,Jeremy W. Hayward,,,person,no,no,2
-248,Robert B. Livingston,,,person,no,no,2
-249,Eleanor Rosch,,,person,no,no,2
-250,Patricia Smith Churchland,,,person,no,no,2
-251,Antonio R. Damasio,,,person,no,no,2
-252,Larry R. Squire,,,person,no,no,2
-253,J. Allan Hobson,,,person,no,no,2
-254,Lewis L. Judd,,,person,no,no,2
-255,Richard Davidson,,,person,no,no,2
-256,Daniel Brown,,,person,no,no,2
-257,Lee Yearly,,,person,no,no,2
-258,Daniel Goleman,,,person,no,no,2
-259,Sharon Salzberg,,,person,no,no,2
-260,Jon Kabat-Zinn,,,person,no,no,2
-261,Jerome Engel,,,person,no,no,2
-262,Jayne Gackenbach,,,person,no,no,2
-263,Joyce McDougall,,,person,no,no,2
-264,Charles Taylor,,,person,no,no,2
-265,B. Alan Wallace,,,person,no,no,2
-266,Paul Bourgine,,,person,no,no,2
-267,Jonathan Shear,,,person,no,no,2
-268,Jean Petitot,,,person,no,no,2
-269,Bernard Pachoud,,,person,no,no,2
-270,Jean-Michel Roy,,,person,no,no,2
-271,Hugo Kükelhaus,,,person,no,no,2
-272,Nicholas Spencer,,,person,no,no,2
-273,Marcus Textor,,,person,no,no,2
-274,Sri Anirvan,,,person,no,no,2
-275,Paul Feyerabend,,,person,no,no,2
+219,Karl-Heinz Gottmann,m,,person,no,no,2
+220,Peter Michael Hamel,m,,person,no,no,2
+221,Inge Hölscher,w,,person,no,no,2
+222,Pir Vilayat Inayat Khan,m,,person,no,no,2
+223,Hazrath Inayat Khan,m,,person,no,no,2
+224,Friedrich Kroeger,m,,person,no,no,2
+225,Rabbi Zalman Schachter,m,,person,no,no,2
+226,Siegfried Scharf,m,,person,no,no,2
+227,Susanne Schaup,w,,person,no,no,2
+228,Huston Smith,m,,person,no,no,2
+229,Sun Bear,m,,person,no,no,2
+230,Hans Torwesten,m,,person,no,no,2
+231,Irina Tweedie,w,,person,no,no,2
+232,Dalai Lama,m,,person,no,no,2
+234,Gopi Krishna,m,,person,no,no,2
+235,Robert Baker Aitken,m,,person,no,no,2
+236,James Lovelock,m,,person,no,no,2
+237,Henri Atlan,m,,person,no,no,2
+238,John Todd,m,,person,no,no,2
+239,Evan Thompson,m,,person,no,no,2
+240,Arthur Zajonc,m,,person,no,no,2
+241,Wes Jackson,m,,person,no,no,2
+242,Nancy Jack Todd,w,,person,no,no,2
+243,Susan Oyama,w,,person,no,no,2
+244,Mauro Ceruti,m,,person,no,no,2
+245,Gianluca Bocchi,m,,person,no,no,2
+246,Newcomb Greenleaf,m,,person,no,no,2
+247,Jeremy W. Hayward,m,,person,no,no,2
+248,Robert B. Livingston,m,,person,no,no,2
+249,Eleanor Rosch,w,,person,no,no,2
+250,Patricia Smith Churchland,w,,person,no,no,2
+251,Antonio R. Damasio,m,,person,no,no,2
+252,Larry R. Squire,m,,person,no,no,2
+253,J. Allan Hobson,m,,person,no,no,2
+254,Lewis L. Judd,m,,person,no,no,2
+255,Richard Davidson,m,,person,no,no,2
+256,Daniel Brown,m,,person,no,no,2
+257,Lee Yearly,m,,person,no,no,2
+258,Daniel Goleman,m,,person,no,no,2
+259,Sharon Salzberg,w,,person,no,no,2
+260,Jon Kabat-Zinn,m,,person,no,no,2
+261,Jerome Engel,m,,person,no,no,2
+262,Jayne Gackenbach,w,,person,no,no,2
+263,Joyce McDougall,w,,person,no,no,2
+264,Charles Taylor,m,,person,no,no,2
+265,B. Alan Wallace,m,,person,no,no,2
+266,Paul Bourgine,m,,person,no,no,2
+267,Jonathan Shear,m,,person,no,no,2
+268,Jean Petitot,m,,person,no,no,2
+269,Bernard Pachoud,m,,person,no,no,2
+270,Jean-Michel Roy,m,,person,no,no,2
+271,Hugo Kükelhaus,m,,person,no,no,2
+272,Nicholas Spencer,m,,person,no,no,2
+273,Marcus Textor,m,,person,no,no,2
+274,Sri Anirvan,m,,person,no,no,2
+275,Paul Feyerabend,m,,person,no,no,2
 276,Harald Atmanspacher,m,1955,person,yes,no,2
-277,Wilhelm Reich,,,person,no,no,2
-278,G. C. Jung,,,person,no,no,2
-279,Joachim Ernst Berendt,,,person,no,no,2
-280,Chikuen Kugai Roshi (Henry Platov),,,person,no,no,2
-281,Stephano Sabetti,,,person,no,no,2
-282,Peter Baumann,,,person,no,no,2
-283,Georg Verden,,,person,no,no,2
-284,Shunryu Suzuki Roshi,,,person,no,no,2
-285,Werner Heisenberg,,,person,no,no,2
-286,Karlfried Graf Dürckheim,,,person,no,no,2
-287,Y. Takao,,,person,no,no,2
-288,Kentin Tai Situpa,,,person,no,no,2
+277,Wilhelm Reich,m,,person,no,no,2
+278,G. C. Jung,m,,person,no,no,2
+279,Joachim Ernst Berendt,m,,person,no,no,2
+280,Chikuen Kugai Roshi (Henry Platov),m,,person,no,no,2
+281,Stephano Sabetti,m,,person,no,no,2
+282,Peter Baumann,m,,person,no,no,2
+283,Georg Verden,m,,person,no,no,2
+284,Shunryu Suzuki Roshi,m,,person,no,no,2
+285,Werner Heisenberg,m,,person,no,no,2
+286,Karlfried Graf Dürckheim,m,,person,no,no,2
+287,Y. Takao,m,,person,no,no,2
+288,Kentin Tai Situpa,m,,person,no,no,2
 289,Adolf Muschg,m,1934,person,yes,no,2
-290,Mia Segal,,,person,no,no,2
-291,Milton Erickson,,,person,no,no,2
-292,Virginia Satir,,,person,no,no,2
-293,Anna Halprin,,,person,no,no,2
-294,John Lilly,,,person,no,no,2
-295,Stephen Gilligan,,,person,no,no,2
-296,Sergio Bellucci,,,person,yes,no,2
+290,Mia Segal,w,,person,no,no,2
+291,Milton Erickson,m,,person,no,no,2
+292,Virginia Satir,w,,person,no,no,2
+293,Anna Halprin,w,,person,no,no,2
+294,John Lilly,m,,person,no,no,2
+295,Stephen Gilligan,m,,person,no,no,2
+296,Sergio Bellucci,m,,person,yes,no,2
 297,Rainer Boesch,m,1938,person,yes,no,2
 298,Bruno Dalle Carbona,m,1961,person,yes,no,2
 299,Gail Fleischaker,w,,person,yes,no,2
@@ -312,12 +311,12 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 311,Martin Spühler,m,1943,person,yes,no,2
 312,Karin Stumpf,w,1967,person,yes,no,2
 313,Klaus Von Berlepsch,m,1931,person,yes,no,2
-314,Stefano Colonna,,,person,no,no,2
+314,Stefano Colonna,m,,person,no,no,2
 315,Fred von Allmen,m,1943,person,yes,no,2
-316,Yamada Koun Roshi,,,person,no,no,2
-317,Ralph H. Abraham,,,person,no,no,2
+316,Yamada Koun Roshi,m,,person,no,no,2
+317,Ralph H. Abraham,m,,person,no,no,2
 318,Fatima Mernissi,w,1940,person,yes,no,2
-319,Peter Schwartz,,,person,no,no,2
+319,Peter Schwartz,m,,person,no,no,2
 320,Catherine Chrétien,w,,person,yes,no,2
 321,Béatrice Elsener,w,1953,person,yes,no,2
 322,Charles Enz,m,1925,person,yes,no,2
@@ -333,20 +332,20 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 332,Tullio Regge,m,1931,person,yes,no,2
 333,Michael Vetter,m,1943,person,yes,no,2
 334,Marianne Zimmermann,w,1943,person,yes,no,2
-335,Andre Dreiding,,,person,yes,no,2
-336,S. Ris,,,person,yes,no,2
+335,Andre Dreiding,m,,person,yes,no,2
+336,S. Ris,m,,person,yes,no,2
 337,Georg Weissmann,m,,person,yes,no,2
-338,Konrad Hungerbühler,,,person,yes,no,2
-339,Rangjung Rigpe Dorje,,,person,no,no,2
-340,Kalu Rinpoche,,,person,no,no,2
-341,Chee Kim Thong,,,person,no,no,2
-342,Wolfgang Pauli,,,person,no,no,2
-343,Gerhard Huber,,,person,no,no,2
-344,Herbert van Erkelens,,,person,no,no,2
-345,Rigmor Robert,,,person,no,no,2
-346,Wilhelm Just,,,person,no,no,2
-347,Marlis Buchmann,,,person,yes,no,2
-348,Kurt Osterwalder,,,person,yes,no,2
+338,Konrad Hungerbühler,m,,person,yes,no,2
+339,Rangjung Rigpe Dorje,m,,person,no,no,2
+340,Kalu Rinpoche,m,,person,no,no,2
+341,Chee Kim Thong,m,,person,no,no,2
+342,Wolfgang Pauli,m,,person,no,no,2
+343,Gerhard Huber,m,,person,no,no,2
+344,Herbert van Erkelens,m,,person,no,no,2
+345,Rigmor Robert,m,,person,no,no,2
+346,Wilhelm Just,m,,person,no,no,2
+347,Marlis Buchmann,w,,person,yes,no,2
+348,Kurt Osterwalder,m,,person,yes,no,2
 349,Günter Haffelder,m,1940,person,yes,no,2
 350,Vidyadhar Vaidya,m,1939,person,yes,no,2
 351,Holger Morgenstern,m,1959,person,yes,no,2
@@ -356,8 +355,8 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 355,Helga Nowotny,w,1937,person,yes,no,2
 356,Martin Quack,m,1948,person,yes,no,2
 357,Otto Roessler,m,1940,person,yes,no,2
-358,Anton Amann,,,person,no,no,2
-359,Carl Friedrich von Weizsäcker,,,person,no,no,2
+358,Anton Amann,m,,person,no,no,2
+359,Carl Friedrich von Weizsäcker,m,,person,no,no,2
 360,Manuel Laso,m,1959,person,yes,no,2
 361,David Spangler,m,1945,person,no,no,2
 362,Keiji Nishitani,m,1900,person,no,no,2
@@ -370,7 +369,7 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 369,Stanislav Grof,m,1931,person,no,no,2
 370,Thich Nhat Hanh,m,,person,no,no,2
 371,Dae Sahn sa Nim,m,,person,no,no,2
-372,Peter Schellenbaum,,,person,no,no,2
+372,Peter Schellenbaum,m,,person,no,no,2
 373,Gereon Wolters,m,1944,person,no,no,2
 2001,ETH Zürich,,,organization,,,2
 2002,Universität Rom III,,,organization,,,2
@@ -706,6 +705,8 @@ id,name,gender,birth_date,attribute,at_cortona,cortona,[z]
 
 ",,,publication,,,2
 5053,Umdenken in der Naturwissenschaft,,,publication,,,2
+5054,Human Survival and Consciousness Evolution,,,publication,,,2
+5055,CoEvolution Quarterly,,,publication,,,2
 6001,Cortona 1,,,event,,yes,2
 6002,Cortona 2,,,event,,yes,2
 6003,Perception,,,event,,yes,2
@@ -759,3 +760,6 @@ und alter spiritueller Traditionen.",,,event,,,2
 6050,Mystics and Scientists,,,event,,,2
 6051,Mind and Life starting from 1987 to 1995,,,event,,,2
 6052, International New Age Tage 1984/1986,,,event,,,2
+6053,Bewusstsein 88,,,event,,,2
+6054,Geist und Natur,,,event,,,2
+6055,Psi-Tage,,,event,,,2
