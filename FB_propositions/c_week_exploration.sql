@@ -62,3 +62,4 @@ SELECT pk_person, name, gender, COUNT(*) AS number, GROUP_CONCAT(DISTINCT descri
 FROM tw1
 GROUP BY pk_person, name, gender
 ORDER BY number DESC;
+	
